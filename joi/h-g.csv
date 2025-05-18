@@ -1,0 +1,105 @@
+Code,Author,Query,h(GS),g(GS),h(WOS),g(WOS)
+1,"Bar-Ilan, J","Query: ""J Bar-Ilan"": all",23,36,11,16
+2,"Bates, MJ","Query: ""MJ Bates"": all",28,62,7,14
+3,"Bawden, D","Query: ""D Bawden"": all",16,30,5,9
+4,"Beheshti, J","Query: ""J Beheshti"": all",16,27,7,13
+5,"Belkin, NJ","Query: "" N Belkin"": all",36,79,4,9
+6,"Bertot, JC","Query: ""J Bertot"": all",16,25,6,8
+7,"Borgman, CL","Query: ""C Borgman"": all",26,56,7,17
+8,"Brophy, P","Query: "" P Brophy"": all",15,23,4,4
+9,"Buckland, MK","Query: ""M Buckland"":all",22,46,4,8
+10,"Budd, JM","Query: ""J Budd"":all",17,26,6,10
+11,"Burrell, OL","Query: ""Q Burrell"": all",17,23,6,8
+12,"Case, DO","Query: ""D Case"": all and Query: ""DO Case"": all",13,33,4,8
+13,"Cole, C","Query: "" C Cole"":all",15,22,9,10
+14,"Cronin, B","Query: ""B Cronin"": all",28,43,12,19
+15,"Damodaran, L","Query: ""L Damodaran"":all",10,24,4,6
+16,"Davenport, E","Query: ""E Davenport"": all",17,26,5,9
+17,"De Moya-Anegon, F","Query: ""Moya-Anegon"": all",16,23,6,8
+18,"Debackere, K","Query: ""K Debackere"": all",20,33,7,11
+19,"Dilevko, J","Query: ""J Dilevko"": all",7,10,4,6
+20,"Dillon, A","Query: "" A Dillon"": all",26,55,8,16
+21,"Egghe, L","Query: ""L Egghe"": all",24,44,10,16
+22,"Ellis, D","Query: ""d ellis"" from 1985 to 2009: busengsoc",22,43,9,15
+23,"Enser, P","Query: ""P Enser"": all",11,28,3,7
+24,"Feather, J","Query: ""J Feather"": all",12,26,2,2
+25,"Fidel, R ","Query: ""R Fidel"": all",22,40,4,6
+26,"Foo, S","Query: ""S Foo"": all",14,25,7,10
+27,"Ford, N","Query: ""N Ford"": all",24,39,13,18
+28,"Garg, KC","Query: ""K garg"": busengsoc",7,11,7,8
+29,"Gibb, F","Query: ""F Gibb"": all",12,18,4,5
+30,"Glanzel, W","Query: ""W Glanzel"": all",34,50,17,23
+31,"Goker, A","Query: ""A Goker"": all",8,16,2,6
+32,"Gunter, B","Query: ""B Gunter"": all",29,47,4,5
+33,"Gupta, BM","Query: ""BM GUPTA"": all & Query: ""B GUPTA"": soc",8,10,5,6
+34,"Harnad, S","Query: ""S Harnad"": all",45,89,3,5
+35,"Hernon, P","Query: ""P Hernon"": all",22,35,6,8
+36,"Hjorland, B","Query: ""B Hjorland"": all",19,38,11,17
+37,"Huntington, P","Query: ""P Huntington"": all",17,25,10,14
+38,"Ingwersen, P","Query: ""P Ingwersen"": all",26,61,10,26
+39,"Jacso, P","Query: ""P Jacso"": all",11,22,5,10
+40,"Jamali, HR","Query: ""H Jamali"": all",7,10,5,6
+41,"Jansen, BJ","Query: ""BJ Jansen"": all & Query: ""B Jansen"": soc",28,66,9,23
+42,"Jarvelin, K","Query: ""K Jarvelin"": all",23,49,9,13
+43,"Jiang, JJ","Query: ""JJ Jiang"":all",20,31,9,13
+44,"Jose, JM","Query: ""J Jose"": all",16,28,4,7
+45,"Kantor, PB","Query: ""P Kantor"": all",19,42,5,9
+46,"Koenig, MED","Query: ""M E D koenig"": engsoc & Query: ""M koenig"": engsoc",10,14,3,5
+47,"Kretschmer, H","Query: ""H Kretschmer"": all",10,16,6,8
+48,"Kuhlthau, CC","Query: ""C Kuhlthau"": all",19,51,3,7
+49,"Lalmas, M","Query: ""M Lalmas"": all",26,44,6,11
+50,"Large, A","Query: ""A Large"": all",18,31,8,14
+51,"Larson, RR","Query: ""RR Larson"": all & Query: ""R Larson"": soc",14,32,4,6
+52,"Lewison, G","Query: ""G Lewison"": all",15,21,9,12
+53,"Leydesdorff,L","Query: ""Leydesdorff"": all",38,79,13,23
+54,"Liddy, ED","Query: ""E Liddy"": all",20,32,3,3
+55,"Losee, RM","Query: ""R losee"": all",17,29,6,9
+56,"McCain, K","Query: ""K McCain"": all",20,45,7,16
+57,"McClure, CR","Query: ""CR McClure"": all & Query: ""C McClure"": engsoc",24,40,6,8
+58,"McKnight, C","Query: ""C McKnight"": all",19,36,5,7
+59,"Marchionini, G","Query: ""G Marchionini"": all",36,71,7,11
+60,"Marcella, R","Query: ""R Marcella"": all",10,15,4,6
+61,"Meyer, M","Query: ""M Meyer"" from 1992 to 2009: soc",12,23,11,16
+62,"Moed, HF","Query: ""H Moed"": all",30,50,13,20
+63,"Morris, A","Query: ""A Morris"" from 1990 to 2009: soc",8,9,4,8
+64,"Nicholas, D","Query: ""D Nicholas"": engsoc",20,28,11,15
+65,"Oppenheim, C","Query: ""C Oppenheim"": all",25,40,9,13
+66,"Ounis, I","Query: ""I Ounis"": all",18,31,3,4
+67,"Raper, J","Query: ""J Raper"": all",18,32,2,3
+68,"van Rijsbergen, CJ","Query: ""van Rijsbergen"": all",35,66,6,12
+69,"Robertson, S","Query: ""S Robertson"": soc",11,28,7,12
+70,"Rousseau, r","Query: ""R Rousseau"": all",24,47,14,19
+71,"Rowland, F","Query: ""F Rowland"": all",12,22,3,5
+72,"Rowlands, I","Query: ""I Rowlands"": all",12,20,6,8
+73,"Rowley, J","Query: ""J Rowley"": busengsoc",25,41,5,6
+74,"Ruger, S","Query: ""S Rueger"": all  & Query: ""S Rüger"": all",11,18,4,6
+75,"Ruthven, I","Query: ""I Ruthven"": all",19,33,6,10
+76,"Sanderson, M","Query: ""M Sanderson"": busengsoc",23,48,3,4
+77,"Saracevic, T","Query: ""T Saracevic"": all",33,75,11,16
+78,"Savolainen, R","Query: ""R Savolainen"": all",15,29,8,11
+79,"Schamber, L","Query: ""L Schamber"": all",12,32,4,8
+80,"Schubert, A","Query: ""A Schubert"": all",22,37,11,16
+81,"Smith, LC","Query: ""LC Smith"": all",11,25,3,3
+82,"Soergel, D","Query: ""D Soergel"": all",21,40,4,8
+83,"Spink, A","Query: ""A Spink"": busengsoc",39,74,18,33
+84,"Tait, J","Query: ""J Tait"": busengsoc",12,23,2,2
+85,"Tenopir, C","Query: ""C Tenopir"": busengsoc",25,44,9,16
+86,"Thelwall, M","Query: ""M Thelwall"": busengsoc",31,50,17,26
+87,"Vakkari, P","Query: ""P Vakkari"": busengsoc",17,31,9,16
+88,"Van House, N","Query: ""n Van House"": busengsoc",17,33,2,3
+89,"van Leeuwen, TN","Query: ""t van Leeuwen"": busengsoc",19,33,12,17
+90,"van Raan, AFJ","Query: ""a van Raan"": busengsoc",33,47,14,22
+91,"Vaughan, LW","Query: ""L Vaughan"": busengsoc",17,31,10,16
+92,"Warner, J","Query: ""j Warner"": busengsoc",10,16,6,9
+93,"White, HD","Query: ""hd White"": busengsoc & Query: ""h White"" from 1975 to 2009: soc",19,45,9,19
+94,"Whittaker, S","Query: ""s Whittaker"": busengsoc",39,77,3,5
+95,"Wildemuth, B","Query: ""b Wildemuth"": busengsoc",16,25,5,8
+96,"Willett, P","Query: ""P Willett"": all",50,94,30,59
+97,"Williams, P","Query: ""P Williams"" from 1995 to 2009: soc",14,19,8,11
+98,"Wilson, C","Query: ""CS Wilson"": all & Query: ""C Wilson"" from 1980 to 2009: soc",14,21,6,10
+99,"Wilson, TD","Query: ""TD Wilson"": all & Query: ""T Wilson"" from 1980 to 2009: soc",26,57,9,19
+100,"Yang, CC","Query: ""CC Yang"": busengsoc",13,24,7,11
+101,"Zitt, M","Query: ""M Zitt"": all",15,22,8,11
+* Note h(WOS) and g(WOS) are from Citation counts by General Search - with self-citations,,,,,,
+"* I did the second query on condition that there are too many records about ""D Case"", for example, in GS ",,,,,,
+" by restricting the research areas and time period, or searching with middle name.",,,,,,

@@ -1,0 +1,34 @@
+/* CSS Document */
+
+.tm-text-green {
+  color: #B356BF;
+}
+
+.tm-text-orange {
+  color: #495931;
+}
+
+.tm-text-blue {
+  color: #1C260D;
+}
+
+.tm-text-dark-gray {
+  color: #798C5D;
+}
+
+
+.tm-bg-green {
+  background-color: #B356BF;
+}
+
+.tm-bg-orange {
+  background-color: #495931;
+}
+
+.tm-bg-blue {
+  background-color: #1C260D;
+}
+
+.tm-bg-dark-gray {
+  background-color: #798C5D;
+}
