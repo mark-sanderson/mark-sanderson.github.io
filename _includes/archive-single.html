@@ -34,6 +34,12 @@
       {% endif %}
     </h2>
     
+    {% if post.collection == 'publications' and include.pub_type %}
+      <div class="publication-type-badge">
+        <span class="publication-badge-inline {{ post.category }}">{{ include.pub_type }}</span>
+      </div>
+    {% endif %}
+    
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
