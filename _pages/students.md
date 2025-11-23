@@ -4,7 +4,7 @@ permalink: /students/
 author_profile: true
 ---
 
-I have had the priviledge to work with a great many students. Here I list the PhD students who I have graduated and I'm currently working with. I also list some of the Masters and Honours students whose projects we were able to get to a publication.
+I have had the priviledge to work with a great many students. Here I list of completed PhD students along with the students I'm currently working with. I also list some of the Masters and Honours students whose projects we were able to get to a publication.
 
 PhD Completed
 -------------
@@ -37,5 +37,15 @@ PhD Completed
 27. Dr. Valeriia Baranova
 28. Dr. Hiruni Kegalle
 29. Dr. Marwah Alaofi
+
+Current PhD Students
+--------------------
+1. Madhurima Khirbat
+2. Sara Fahad Dawood Al Lawati
+3. Yueqing Xuan
+4. Hmdh Alknjr
+5. Nuha Abu Onq
+6. A Fathima Sharfana
+7. Raja Piyush
 
  
