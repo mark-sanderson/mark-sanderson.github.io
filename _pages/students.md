@@ -4,6 +4,7 @@ permalink: /students/
 author_profile: true
 ---
 
+I have had the priviledge to work with a great many students. Here I list the PhD students who I have graduated and I'm currently working with. I also list some of the Masters and Honours students whose projects we were able to get to a publication.
 
 PhD Completed
 -------------
