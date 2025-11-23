@@ -35,6 +35,6 @@ PhD Completed
 26. Dr. Chenglong Ma
 27. Dr. Valeriia Baranova
 28. Dr. Hiruni Kegalle
-29. Dr. Marwah Alaof
+29. Dr. Marwah Alaofi
 
  
