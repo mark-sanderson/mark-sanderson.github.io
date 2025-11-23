@@ -1,10 +1,12 @@
 ---
 layout: compress
-title: Blogging Like a Hacker
+title: Students I have worked with
+permalink: /students/
 ---
 
 
 PhD Completed
+======
 1. Dr. Hideo Joho
 2. Dr. Ray D'Amore
 3. Dr. Azzah Al-Maskari
