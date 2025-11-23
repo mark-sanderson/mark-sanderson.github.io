@@ -2,6 +2,7 @@
 layout: compress
 title: Students I have worked with
 permalink: /students/
+author_profile: true
 ---
 
 
