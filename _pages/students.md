@@ -40,12 +40,13 @@ PhD Completed
 
 Current PhD Students
 --------------------
-1. Madhurima Khirbat
-2. Sara Fahad Dawood Al Lawati
-3. Yueqing Xuan
-4. Hmdh Alknjr
-5. Nuha Abu Onq
-6. A Fathima Sharfana
-7. Raja Piyush
+* Hmdh Alknjr
+* Madhurima Khirbat
+* Nuha Abu Onq
+* Raja Piyush
+* Sara Fahad Dawood Al Lawati
+* A Fathima Sharfana
+* Yueqing Xuan
+
 
  
