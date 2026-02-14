@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3477495.3531750'
 citation: ' Leila Tavakoli,  Johanne Trippas,  Hamed Zamani,  Falk Scholer,  Mark Sanderson, &quot;MIMICS-Duo: Offline &amp;amp; Online Evaluation of Search Clarification.&quot; In the proceedings of SIGIR &amp;apos;22: The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid, Spain, July 11 - 15, 2022, 2022.'
 ---
 [Official version](https://doi.org/10.1145/3477495.3531750){:target="_blank"}
-[Local PDF](/files/papers/SIGIR2022_Leila_Resource.pdf){:target="_blank"}
+[ | Local PDF](/files/papers/SIGIR2022_Leila_Resource.pdf){:target="_blank"}

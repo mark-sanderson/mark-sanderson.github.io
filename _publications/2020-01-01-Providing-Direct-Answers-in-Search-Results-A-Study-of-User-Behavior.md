@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3340531.3412017'
 citation: ' Zhijing Wu,  Mark Sanderson,  Berkant Cambazoglu,  W. Croft,  Falk Scholer, &quot;Providing Direct Answers in Search Results: A Study of User Behavior.&quot; In the proceedings of CIKM &amp;apos;20: The 29th ACM International Conference on Information and Knowledge Management, Virtual Event, Ireland, October 19-23, 2020, 2020.'
 ---
 [Official version](https://doi.org/10.1145/3340531.3412017){:target="_blank"}
-[Local PDF](/files/papers/CIKM2020.pdf){:target="_blank"}
+[ | Local PDF](/files/papers/CIKM2020.pdf){:target="_blank"}

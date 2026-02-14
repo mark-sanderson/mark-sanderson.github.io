@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3397271.3401285'
 citation: ' Liam Scanlon,  Shiwei Zhang,  Xiuzhen Zhang,  Mark Sanderson, &quot;Evaluation of Cross Domain Text Summarization.&quot; In the proceedings of Proceedings of the 43rd International ACM SIGIR conference on research and development in Information Retrieval, SIGIR 2020, Virtual Event, China, July 25-30, 2020, 2020.'
 ---
 [Official version](https://doi.org/10.1145/3397271.3401285){:target="_blank"}
-[Local PDF](/files/papers/SIGIR2020_Submission_Liam.pdf){:target="_blank"}
+[ | Local PDF](/files/papers/SIGIR2020_Submission_Liam.pdf){:target="_blank"}

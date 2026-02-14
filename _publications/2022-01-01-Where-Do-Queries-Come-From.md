@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3477495.3531711'
 citation: ' Marwah Alaofi,  Luke Gallagher,  Dana McKay,  Lauren Saling,  Mark Sanderson,  Falk Scholer,  Damiano Spina,  Ryen White, &quot;Where Do Queries Come From?.&quot; In the proceedings of SIGIR &amp;apos;22: The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid, Spain, July 11 - 15, 2022, 2022.'
 ---
 [Official version](https://doi.org/10.1145/3477495.3531711){:target="_blank"}
-[Local PDF](/files/papers/sigir2022a.pdf){:target="_blank"}
+[ | Local PDF](/files/papers/sigir2022a.pdf){:target="_blank"}
