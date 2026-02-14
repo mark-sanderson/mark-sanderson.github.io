@@ -44,6 +44,14 @@ publist = {
     } 
 }
 
+# Locations of bibkey to local PDF file mapping plus local file directory
+pdf_dir = "./files/papers"                 # where the PDFs live in your repo
+pdf_map_path = "./_publications/pdf_map.json"
+
+with open(pdf_map_path, "r", encoding="utf-8") as f:
+    pdf_map = json.load(f)                # dict: bib_id -> pdf filename
+    
+    
 # Create files/bib directory if it doesn't exist
 bib_dir = "./files/bib"
 os.makedirs(bib_dir, exist_ok=True)
