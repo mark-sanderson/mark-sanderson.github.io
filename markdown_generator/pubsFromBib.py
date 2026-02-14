@@ -188,7 +188,7 @@ for pubsource in publist:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 
             if pdf_filename and os.path.exists(os.path.join(pdf_dir, pdf_filename)):
-                    md += f"[Download local PDF](/files/papers/{pdf_filename})" + "{:target=\"_blank\"}\n"
+                    md += f"\n[Download local PDF](/files/papers/{pdf_filename})" + "{:target=\"_blank\"}\n"
 
             md_filename = os.path.basename(md_filename)
 
