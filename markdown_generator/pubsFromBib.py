@@ -183,12 +183,14 @@ for pubsource in publist:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
             if url:
-                md += "\n[Official paper copy](" + b["url"] + "){:target=\"_blank\"}\n" 
+                md += "\n[Official paper copy](" + b["url"] + "){:target=\"_blank\"}"
+                if pdf_filename and os.path.exists(os.path.join(pdf_dir, pdf_filename)):
+                    md += f" | [Download local PDF](/files/papers/{pdf_filename})" + "{:target=\"_blank\"}\n"
+                else:
+                    md += "\n"
             else:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 
-            if pdf_filename and os.path.exists(os.path.join(pdf_dir, pdf_filename)):
-                md += f"\n[Download local PDF](/files/papers/{pdf_filename})" + "{:target=\"_blank\"}\n"
 
             md_filename = os.path.basename(md_filename)
 
