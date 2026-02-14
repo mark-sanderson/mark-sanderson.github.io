@@ -22,6 +22,7 @@ import string
 import html
 import os
 import re
+import json
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
