@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Assessing-the-effectiveness-of-pen-based-input-queries.bi
 paperurl: 'https://doi.org/10.1145/860435.860539'
 citation: ' Stephen Levin,  Paul Clough,  Mark Sanderson, &quot;Assessing the effectiveness of pen-based input queries.&quot; In the proceedings of SIGIR 2003: Proceedings of the 26th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, July 28 - August 1, 2003, Toronto, Canada, 2003.'
 ---
-[Official paper copy](https://doi.org/10.1145/860435.860539){:target="_blank"}
+[Official version](https://doi.org/10.1145/860435.860539){:target="_blank"}

@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Spatial-diversity-do-users-appreciate-it.bib'
 paperurl: 'https://doi.org/10.1145/1722080.1722108'
 citation: ' Jiayu Tang,  Mark Sanderson, &quot;Spatial diversity, do users appreciate it?.&quot; In the proceedings of Proceedings of the 6th Workshop on Geographic Information Retrieval, GIR 2010, Zurich, Switzerland, February 18-19, 2010, 2010.'
 ---
-[Official paper copy](https://doi.org/10.1145/1722080.1722108){:target="_blank"}
+[Official version](https://doi.org/10.1145/1722080.1722108){:target="_blank"}

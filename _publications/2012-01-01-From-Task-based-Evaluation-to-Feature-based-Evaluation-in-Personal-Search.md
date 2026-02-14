@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/From-Task-based-Evaluation-to-Feature-based-Evaluation-in
 paperurl: 'https://ceur-ws.org/Vol-909/poster2.pdf'
 citation: ' Seyedeh Sadeghi,  Mark Sanderson,  Falk Scholer, &quot;From Task-based Evaluation to Feature-based Evaluation in Personal Search.&quot; In the proceedings of Proceedings of the 2nd European Workshop on Human-Computer Interaction and Information Retrieval, Nijmegen, The Netherlands, August 25, 2012, 2012.'
 ---
-[Official paper copy](https://ceur-ws.org/Vol-909/poster2.pdf){:target="_blank"}
+[Official version](https://ceur-ws.org/Vol-909/poster2.pdf){:target="_blank"}

@@ -10,6 +10,5 @@ pdfurl: '/files/papers/ran-2025-two.pdf'
 paperurl: 'https://doi.org/10.1145/3698204.3716468'
 citation: ' Kun Ran,  Marwah Alaofi,  Mark Sanderson,  Damiano Spina, &quot;Two Heads Are Better Than One: Improving Search Effectiveness Through LLM-Generated Query Variants.&quot; In the proceedings of Proceedings of the 2025 ACM SIGIR Conference on Human Information Interaction and Retrieval, CHIIR 2025, MelbourneAustralia, March 24-28, 2025, 2025.'
 ---
-[Official paper copy](https://doi.org/10.1145/3698204.3716468){:target="_blank"}
-
-[Download local PDF](/files/papers/ran-2025-two.pdf){:target="_blank"}
+[Official version](https://doi.org/10.1145/3698204.3716468){:target="_blank"}
+[Local PDF](/files/papers/ran-2025-two.pdf){:target="_blank"}

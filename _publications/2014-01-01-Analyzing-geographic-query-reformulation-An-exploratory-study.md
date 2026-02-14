@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Analyzing-geographic-query-reformulation-An-exploratory-s
 paperurl: 'https://doi.org/10.1002/asi.22961'
 citation: ' Saad Aloteibi,  Mark Sanderson, &quot;Analyzing geographic query reformulation: An exploratory study.&quot; J. Assoc. Inf. Sci. Technol., 2014.'
 ---
-[Official paper copy](https://doi.org/10.1002/asi.22961){:target="_blank"}
+[Official version](https://doi.org/10.1002/asi.22961){:target="_blank"}

@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Multimedia-information-retrieval-new-challenges-in-audio-
 paperurl: 'https://doi.org/10.1145/1328964.1328978'
 citation: ' Roelof Zwol,  Stefan R{\&quot;{u}}ger,  Mark Sanderson,  Yosi Mass, &quot;Multimedia information retrieval: &amp;quot;new challenges in audio visual search&amp;quot;.&quot; SIGIR Forum, 2007.'
 ---
-[Official paper copy](https://doi.org/10.1145/1328964.1328978){:target="_blank"}
+[Official version](https://doi.org/10.1145/1328964.1328978){:target="_blank"}

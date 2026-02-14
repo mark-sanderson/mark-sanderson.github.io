@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Evaluating-the-performance-of-information-retrieval-syste
 paperurl: 'http://www.informationr.net/ir/18-2/paper582.html'
 citation: ' Paul Clough,  Mark Sanderson, &quot;Evaluating the performance of information retrieval systems using test collections.&quot; Inf. Res., 2013.'
 ---
-[Official paper copy](http://www.informationr.net/ir/18-2/paper582.html){:target="_blank"}
+[Official version](http://www.informationr.net/ir/18-2/paper582.html){:target="_blank"}

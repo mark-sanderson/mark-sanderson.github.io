@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Geo-tagging-for-imprecise-regions-of-different-sizes.bib'
 paperurl: 'https://doi.org/10.1145/1316948.1316969'
 citation: ' Robert Pasley,  Paul Clough,  Mark Sanderson, &quot;Geo-tagging for imprecise regions of different sizes.&quot; In the proceedings of Proceedings of the 4th ACM Workshop On Geographic Information Retrieval, GIR 2007, Lisbon, Portugal, November 9, 2007, 2007.'
 ---
-[Official paper copy](https://doi.org/10.1145/1316948.1316969){:target="_blank"}
+[Official version](https://doi.org/10.1145/1316948.1316969){:target="_blank"}

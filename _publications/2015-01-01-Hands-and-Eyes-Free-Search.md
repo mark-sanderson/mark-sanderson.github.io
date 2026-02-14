@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Hands-and-Eyes-Free-Search.bib'
 paperurl: 'https://doi.org/10.1145/2810355.2810361'
 citation: ' Mark Sanderson, &quot;Hands and Eyes Free Search.&quot; In the proceedings of Proceedings of the First International Workshop on Novel Web Search Interfaces and Systems, NWSearch 2015, Melbourne, Australia, October 23, 2015, 2015.'
 ---
-[Official paper copy](https://doi.org/10.1145/2810355.2810361){:target="_blank"}
+[Official version](https://doi.org/10.1145/2810355.2810361){:target="_blank"}

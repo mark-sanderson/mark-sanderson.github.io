@@ -10,6 +10,5 @@ pdfurl: '/files/papers/CHIIR21a.pdf'
 paperurl: 'https://doi.org/10.1145/3406522.3446027'
 citation: ' Berkant Cambazoglu,  Leila Tavakoli,  Falk Scholer,  Mark Sanderson,  W. Croft, &quot;An Intent Taxonomy for Questions Asked in Web Search.&quot; In the proceedings of CHIIR &amp;apos;21: ACM SIGIR Conference on Human Information Interaction and Retrieval, Canberra, ACT, Australia, March 14-19, 2021, 2021.'
 ---
-[Official paper copy](https://doi.org/10.1145/3406522.3446027){:target="_blank"}
-
-[Download local PDF](/files/papers/CHIIR21a.pdf){:target="_blank"}
+[Official version](https://doi.org/10.1145/3406522.3446027){:target="_blank"}
+[Local PDF](/files/papers/CHIIR21a.pdf){:target="_blank"}

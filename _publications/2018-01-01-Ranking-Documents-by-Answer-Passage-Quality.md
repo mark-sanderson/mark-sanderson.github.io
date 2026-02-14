@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Ranking-Documents-by-Answer-Passage-Quality.bib'
 paperurl: 'https://doi.org/10.1145/3209978.3210028'
 citation: ' Evi Yulianti,  Ruey{-}Cheng Chen,  Falk Scholer,  W. Croft,  Mark Sanderson, &quot;Ranking Documents by Answer-Passage Quality.&quot; In the proceedings of The 41st International ACM SIGIR Conference on Research &amp;amp; Development in Information Retrieval, SIGIR 2018, Ann Arbor, MI, USA, July 08-12, 2018, 2018.'
 ---
-[Official paper copy](https://doi.org/10.1145/3209978.3210028){:target="_blank"}
+[Official version](https://doi.org/10.1145/3209978.3210028){:target="_blank"}

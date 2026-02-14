@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Examining-Additivity-and-Weak-Baselines.bib'
 paperurl: 'https://doi.org/10.1145/2882782'
 citation: ' Sadegh Kharazmi,  Falk Scholer,  David Vallet,  Mark Sanderson, &quot;Examining Additivity and Weak Baselines.&quot; ACM Trans. Inf. Syst., 2016.'
 ---
-[Official paper copy](https://doi.org/10.1145/2882782){:target="_blank"}
+[Official version](https://doi.org/10.1145/2882782){:target="_blank"}

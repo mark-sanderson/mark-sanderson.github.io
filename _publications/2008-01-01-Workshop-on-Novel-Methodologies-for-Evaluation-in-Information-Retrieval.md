@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Workshop-on-Novel-Methodologies-for-Evaluation-in-Informa
 paperurl: 'https://doi.org/10.1007/978-3-540-78646-7\_86'
 citation: ' Mark Sanderson,  Martin Braschler,  Nicola Ferro,  Julio Gonzalo, &quot;Workshop on Novel Methodologies for Evaluation in Information Retrieval.&quot; In the proceedings of Advances in Information Retrieval , 30th European Conference on IR Research, ECIR 2008, Glasgow, UK, March 30-April 3, 2008. Proceedings, 2008.'
 ---
-[Official paper copy](https://doi.org/10.1007/978-3-540-78646-7\_86){:target="_blank"}
+[Official version](https://doi.org/10.1007/978-3-540-78646-7\_86){:target="_blank"}

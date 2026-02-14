@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Analyzing-clarification-in-asynchronous-information-seeki
 paperurl: 'https://doi.org/10.1002/asi.24562'
 citation: ' Leila Tavakoli,  Hamed Zamani,  Falk Scholer,  William Croft,  Mark Sanderson, &quot;Analyzing clarification in asynchronous information-seeking conversations.&quot; J. Assoc. Inf. Sci. Technol., 2022.'
 ---
-[Official paper copy](https://doi.org/10.1002/asi.24562){:target="_blank"}
+[Official version](https://doi.org/10.1002/asi.24562){:target="_blank"}

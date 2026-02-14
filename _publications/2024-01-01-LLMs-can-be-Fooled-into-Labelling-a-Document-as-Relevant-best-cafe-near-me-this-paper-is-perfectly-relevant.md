@@ -10,6 +10,5 @@ pdfurl: '/files/papers/SIGIR-AP-2024.pdf'
 paperurl: 'https://doi.org/10.1145/3673791.3698431'
 citation: ' Marwah Alaofi,  Paul Thomas,  Falk Scholer,  Mark Sanderson, &quot;LLMs can be Fooled into Labelling a Document as Relevant: best caf&amp;apos;e near me; this paper is perfectly relevant.&quot; In the proceedings of Proceedings of the 2024 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region, SIGIR-AP 2024, Tokyo, Japan, December 9-12, 2024, 2024.'
 ---
-[Official paper copy](https://doi.org/10.1145/3673791.3698431){:target="_blank"}
-
-[Download local PDF](/files/papers/SIGIR-AP-2024.pdf){:target="_blank"}
+[Official version](https://doi.org/10.1145/3673791.3698431){:target="_blank"}
+[Local PDF](/files/papers/SIGIR-AP-2024.pdf){:target="_blank"}

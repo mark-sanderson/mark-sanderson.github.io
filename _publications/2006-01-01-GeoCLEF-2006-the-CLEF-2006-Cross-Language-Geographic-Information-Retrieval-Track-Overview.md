@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/GeoCLEF-2006-the-CLEF-2006-Cross-Language-Geographic-Info
 paperurl: 'https://ceur-ws.org/Vol-1172/CLEF2006wn-GeoCLEF-GeyEt2006.pdf'
 citation: ' Fredric Gey,  Ray Larson,  Mark Sanderson,  Kerstin Bischoff,  Thomas Mandl,  Christa Womser{-}Hacker,  Diana Santos,  Paulo Rocha,  Giorgio Nunzio,  Nicola Ferro, &quot;GeoCLEF 2006: the CLEF 2006 Cross-Language Geographic Information Retrieval Track Overview.&quot; In the proceedings of Working Notes for CLEF 2006 Workshop co-located with the 10th European Conference on Digital Libraries (ECDL 2006), Alicante, Spain, September 20-22, 2006, 2006.'
 ---
-[Official paper copy](https://ceur-ws.org/Vol-1172/CLEF2006wn-GeoCLEF-GeyEt2006.pdf){:target="_blank"}
+[Official version](https://ceur-ws.org/Vol-1172/CLEF2006wn-GeoCLEF-GeyEt2006.pdf){:target="_blank"}

@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/How-do-health-care-professionals-select-medical-images-th
 paperurl: 'https://doi.org/10.1108/00012531211244815'
 citation: ' Shahram Sedghi,  Mark Sanderson,  Paul Clough, &quot;How do health care professionals select medical images they need?.&quot; Aslib Proc., 2012.'
 ---
-[Official paper copy](https://doi.org/10.1108/00012531211244815){:target="_blank"}
+[Official version](https://doi.org/10.1108/00012531211244815){:target="_blank"}

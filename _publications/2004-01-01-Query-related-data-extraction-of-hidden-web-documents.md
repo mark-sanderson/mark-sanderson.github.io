@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Query-related-data-extraction-of-hidden-web-documents.bib
 paperurl: 'https://doi.org/10.1145/1008992.1009119'
 citation: ' Yih{-}Ling Hedley,  Muhammad Younas,  Anne James,  Mark Sanderson, &quot;Query-related data extraction of hidden web documents.&quot; In the proceedings of SIGIR 2004: Proceedings of the 27th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, Sheffield, UK, July 25-29, 2004, 2004.'
 ---
-[Official paper copy](https://doi.org/10.1145/1008992.1009119){:target="_blank"}
+[Official version](https://doi.org/10.1145/1008992.1009119){:target="_blank"}

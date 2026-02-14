@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/A-review-of-factors-influencing-user-satisfaction-in-info
 paperurl: 'https://doi.org/10.1002/asi.21300'
 citation: ' Azzah Al{-}Maskari,  Mark Sanderson, &quot;A review of factors influencing user satisfaction in information retrieval.&quot; J. Assoc. Inf. Sci. Technol., 2010.'
 ---
-[Official paper copy](https://doi.org/10.1002/asi.21300){:target="_blank"}
+[Official version](https://doi.org/10.1002/asi.21300){:target="_blank"}

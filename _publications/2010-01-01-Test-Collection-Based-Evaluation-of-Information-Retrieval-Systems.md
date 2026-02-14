@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Test-Collection-Based-Evaluation-of-Information-Retrieval
 paperurl: 'https://doi.org/10.1561/1500000009'
 citation: ' Mark Sanderson, &quot;Test Collection Based Evaluation of Information Retrieval Systems.&quot; Found. Trends Inf. Retr., 2010.'
 ---
-[Official paper copy](https://doi.org/10.1561/1500000009){:target="_blank"}
+[Official version](https://doi.org/10.1561/1500000009){:target="_blank"}

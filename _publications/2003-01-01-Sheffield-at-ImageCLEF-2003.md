@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Sheffield-at-ImageCLEF-2003.bib'
 paperurl: 'https://ceur-ws.org/Vol-1169/CLEF2003wn-ImageCLEF-CloughEt2003b.pdf'
 citation: ' Paul Clough,  Mark Sanderson, &quot;Sheffield at ImageCLEF 2003.&quot; In the proceedings of Working Notes for CLEF 2003 Workshop co-located with the 7th European Conference on Digital Libraries (ECDL 2003), Trondheim, Norway, August 21-22, 2003, 2003.'
 ---
-[Official paper copy](https://ceur-ws.org/Vol-1169/CLEF2003wn-ImageCLEF-CloughEt2003b.pdf){:target="_blank"}
+[Official version](https://ceur-ws.org/Vol-1169/CLEF2003wn-ImageCLEF-CloughEt2003b.pdf){:target="_blank"}

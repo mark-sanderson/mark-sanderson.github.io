@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/A-review-of-public-datasets-in-question-answering-researc
 paperurl: 'https://doi.org/10.1145/3483382.3483389'
 citation: ' Berkant Cambazoglu,  Mark Sanderson,  Falk Scholer,  W. Croft, &quot;A review of public datasets in question answering research.&quot; SIGIR Forum, 2020.'
 ---
-[Official paper copy](https://doi.org/10.1145/3483382.3483389){:target="_blank"}
+[Official version](https://doi.org/10.1145/3483382.3483389){:target="_blank"}

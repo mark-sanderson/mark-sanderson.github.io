@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Word-Sense-Disambiguation-and-Information-Retrieval.bib'
 paperurl: 'https://doi.org/10.1007/978-1-4471-2099-5\_15'
 citation: ' Mark Sanderson, &quot;Word Sense Disambiguation and Information Retrieval.&quot; In the proceedings of Proceedings of the 17th Annual International ACM-SIGIR Conference on Research and Development in Information Retrieval. Dublin, Ireland, 3-6 July 1994 (Special Issue of the SIGIR Forum), 1994.'
 ---
-[Official paper copy](https://doi.org/10.1007/978-1-4471-2099-5\_15){:target="_blank"}
+[Official version](https://doi.org/10.1007/978-1-4471-2099-5\_15){:target="_blank"}

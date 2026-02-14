@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Overview-of-the-TREC-2012-Session-Track.bib'
 paperurl: 'http://trec.nist.gov/pubs/trec21/papers/SESSION.OVERVIEW.pdf'
 citation: ' Evangelos Kanoulas,  Ben Carterette,  Mark Hall,  Paul Clough,  Mark Sanderson, &quot;Overview of the TREC 2012 Session Track.&quot; In the proceedings of Proceedings of The Twenty-First Text REtrieval Conference, TREC 2012, Gaithersburg, Maryland, USA, November 6-9, 2012, 2012.'
 ---
-[Official paper copy](http://trec.nist.gov/pubs/trec21/papers/SESSION.OVERVIEW.pdf){:target="_blank"}
+[Official version](http://trec.nist.gov/pubs/trec21/papers/SESSION.OVERVIEW.pdf){:target="_blank"}

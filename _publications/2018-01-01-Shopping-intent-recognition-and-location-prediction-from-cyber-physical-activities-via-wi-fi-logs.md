@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Shopping-intent-recognition-and-location-prediction-from-
 paperurl: 'https://doi.org/10.1145/3276774.3276786'
 citation: ' Manpreet Kaur,  Flora Salim,  Yongli Ren,  Jeffrey Chan,  Martin Tomko,  Mark Sanderson, &quot;Shopping intent recognition and location prediction from cyber-physical activities via wi-fi logs.&quot; In the proceedings of Proceedings of the 5th Conference on Systems for Built Environments, BuildSys 2018, Shenzen, China, November 07-08, 2018, 2018.'
 ---
-[Official paper copy](https://doi.org/10.1145/3276774.3276786){:target="_blank"}
+[Official version](https://doi.org/10.1145/3276774.3276786){:target="_blank"}

@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/i-Align-an-interpretable-knowledge-graph-alignment-model.
 paperurl: 'https://doi.org/10.1007/s10618-023-00963-3'
 citation: ' Bayu Trisedya,  Flora Salim,  Jeffrey Chan,  Damiano Spina,  Falk Scholer,  Mark Sanderson, &quot;i-Align: an interpretable knowledge graph alignment model.&quot; Data Min. Knowl. Discov., 2023.'
 ---
-[Official paper copy](https://doi.org/10.1007/s10618-023-00963-3){:target="_blank"}
+[Official version](https://doi.org/10.1007/s10618-023-00963-3){:target="_blank"}

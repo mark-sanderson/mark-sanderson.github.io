@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/App-usage-on-the-move-Context--and-commute-aware-next-app
 paperurl: 'https://doi.org/10.1016/j.pmcj.2022.101704'
 citation: ' Yufan Kang,  Mohammad Rahaman,  Yongli Ren,  Mark Sanderson,  Ryen White,  Flora Salim, &quot;App usage on-the-move: Context- and commute-aware next app prediction.&quot; Pervasive Mob. Comput., 2022.'
 ---
-[Official paper copy](https://doi.org/10.1016/j.pmcj.2022.101704){:target="_blank"}
+[Official version](https://doi.org/10.1016/j.pmcj.2022.101704){:target="_blank"}

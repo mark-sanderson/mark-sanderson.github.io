@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/From-Research-to-Application-in-Multilingual-Information-
 paperurl: 'http://www.lrec-conf.org/proceedings/lrec2008/summaries/913.html'
 citation: ' Carol Peters,  Martin Braschler,  Giorgio Nunzio,  Nicola Ferro,  Julio Gonzalo,  Mark Sanderson, &quot;From Research to Application in Multilingual Information Access: the Contribution of Evaluation.&quot; In the proceedings of Proceedings of the International Conference on Language Resources and Evaluation, LREC 2008, 26 May - 1 June 2008, Marrakech, Morocco, 2008.'
 ---
-[Official paper copy](http://www.lrec-conf.org/proceedings/lrec2008/summaries/913.html){:target="_blank"}
+[Official version](http://www.lrec-conf.org/proceedings/lrec2008/summaries/913.html){:target="_blank"}

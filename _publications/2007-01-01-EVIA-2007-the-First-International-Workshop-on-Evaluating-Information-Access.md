@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/EVIA-2007-the-First-International-Workshop-on-Evaluating-
 paperurl: 'https://doi.org/10.1145/1328964.1328984'
 citation: ' Mark Sanderson,  Tetsuya Sakai,  Noriko Kando, &quot;EVIA 2007: the First International Workshop on Evaluating Information Access.&quot; SIGIR Forum, 2007.'
 ---
-[Official paper copy](https://doi.org/10.1145/1328964.1328984){:target="_blank"}
+[Official version](https://doi.org/10.1145/1328964.1328984){:target="_blank"}

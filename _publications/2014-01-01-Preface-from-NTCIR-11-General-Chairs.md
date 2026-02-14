@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Preface-from-NTCIR-11-General-Chairs.bib'
 paperurl: 'http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings11/pdf/NTCIR/OVERVIEW/01-NTCIR11-PREFACE.pdf'
 citation: ' Noriko Kando,  Tsuneaki Kato,  Tetsuya Sakai,  Douglas Oard,  Mark Sanderson, &quot;Preface from NTCIR-11 General Chairs.&quot; In the proceedings of Proceedings of the 11th NTCIR Conference on Evaluation of Information Access Technologies, NTCIR-11, National Center of Sciences, Tokyo, Japan, December 9-12, 2014, 2014.'
 ---
-[Official paper copy](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings11/pdf/NTCIR/OVERVIEW/01-NTCIR11-PREFACE.pdf){:target="_blank"}
+[Official version](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings11/pdf/NTCIR/OVERVIEW/01-NTCIR11-PREFACE.pdf){:target="_blank"}

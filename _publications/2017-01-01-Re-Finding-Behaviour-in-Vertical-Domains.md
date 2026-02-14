@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Re-Finding-Behaviour-in-Vertical-Domains.bib'
 paperurl: 'https://doi.org/10.1145/2975590'
 citation: ' Seyedeh Sadeghi,  Roi Blanco,  Peter Mika,  Mark Sanderson,  Falk Scholer,  David Vallet, &quot;Re-Finding Behaviour in Vertical Domains.&quot; ACM Trans. Inf. Syst., 2017.'
 ---
-[Official paper copy](https://doi.org/10.1145/2975590){:target="_blank"}
+[Official version](https://doi.org/10.1145/2975590){:target="_blank"}

@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Assessing-Translation-Quality-for-Cross-Language-Image-Re
 paperurl: 'https://doi.org/10.1007/978-3-540-30222-3\_57'
 citation: ' Paul Clough,  Mark Sanderson, &quot;Assessing Translation Quality for Cross Language Image Retrieval.&quot; In the proceedings of Comparative Evaluation of Multilingual Information Access Systems, 4th Workshop of the Cross-Language Evaluation Forum, CLEF 2003, Trondheim, Norway, August 21-22, 2003, Revised Selected Papers, 2003.'
 ---
-[Official paper copy](https://doi.org/10.1007/978-3-540-30222-3\_57){:target="_blank"}
+[Official version](https://doi.org/10.1007/978-3-540-30222-3\_57){:target="_blank"}

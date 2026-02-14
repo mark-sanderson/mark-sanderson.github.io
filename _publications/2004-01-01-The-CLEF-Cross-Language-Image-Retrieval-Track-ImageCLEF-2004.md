@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/The-CLEF-Cross-Language-Image-Retrieval-Track-ImageCLEF-2
 paperurl: 'https://ceur-ws.org/Vol-1170/CLEF2004wn-ImageCLEF-CloughEt2004.pdf'
 citation: ' Paul Clough,  Mark Sanderson,  Henning M{\&quot;{u}}ller, &quot;The CLEF Cross Language Image Retrieval Track (ImageCLEF) 2004.&quot; In the proceedings of Working Notes for CLEF 2004 Workshop co-located with the 8th European Conference on Digital Libraries (ECDL 2004), Bath, UK, September 15-17, 2004, 2004.'
 ---
-[Official paper copy](https://ceur-ws.org/Vol-1170/CLEF2004wn-ImageCLEF-CloughEt2004.pdf){:target="_blank"}
+[Official version](https://ceur-ws.org/Vol-1170/CLEF2004wn-ImageCLEF-CloughEt2004.pdf){:target="_blank"}

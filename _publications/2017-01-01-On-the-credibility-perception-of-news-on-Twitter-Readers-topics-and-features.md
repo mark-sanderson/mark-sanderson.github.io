@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/On-the-credibility-perception-of-news-on-Twitter-Readers-
 paperurl: 'https://doi.org/10.1016/j.chb.2017.06.026'
 citation: ' Shafiza Shariff,  Xiuzhen Zhang,  Mark Sanderson, &quot;On the credibility perception of news on Twitter: Readers, topics and features.&quot; Comput. Hum. Behav., 2017.'
 ---
-[Official paper copy](https://doi.org/10.1016/j.chb.2017.06.026){:target="_blank"}
+[Official version](https://doi.org/10.1016/j.chb.2017.06.026){:target="_blank"}

@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Short-Queries-Natural-Language-and-Spoken-Document-Retrie
 paperurl: 'http://trec.nist.gov/pubs/trec6/papers/glasgow.ps'
 citation: ' Fabio Crestani,  Mark Sanderson,  Marcos Theophylactou,  Mounia Lalmas, &quot;Short Queries, Natural Language and Spoken Document Retrieval: Experiments at Glasgow University.&quot; In the proceedings of Proceedings of The Sixth Text REtrieval Conference, TREC 1997, Gaithersburg, Maryland, USA, November 19-21, 1997, 1997.'
 ---
-[Official paper copy](http://trec.nist.gov/pubs/trec6/papers/glasgow.ps){:target="_blank"}
+[Official version](http://trec.nist.gov/pubs/trec6/papers/glasgow.ps){:target="_blank"}

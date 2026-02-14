@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Statistical-comparisons-of-non-deterministic-IR-systems-u
 paperurl: 'https://doi.org/10.1016/j.ipm.2015.06.005'
 citation: ' Gaya Jayasinghe,  William Webber,  Mark Sanderson,  Lasitha Dharmasena,  J. Culpepper, &quot;Statistical comparisons of non-deterministic IR systems using two dimensional variance.&quot; Inf. Process. Manag., 2015.'
 ---
-[Official paper copy](https://doi.org/10.1016/j.ipm.2015.06.005){:target="_blank"}
+[Official version](https://doi.org/10.1016/j.ipm.2015.06.005){:target="_blank"}

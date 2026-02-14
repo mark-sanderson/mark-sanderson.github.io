@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/A-two-phase-sampling-technique-for-information-extraction
 paperurl: 'https://doi.org/10.1145/1031453.1031456'
 citation: ' Yih{-}Ling Hedley,  Muhammad Younas,  Anne James,  Mark Sanderson, &quot;A two-phase sampling technique for information extraction from hidden web databases.&quot; In the proceedings of Sixth ACM CIKM International Workshop on Web Information and Data Management (WIDM 2004), Washington, DC, USA, November 12-13, 2004, 2004.'
 ---
-[Official paper copy](https://doi.org/10.1145/1031453.1031456){:target="_blank"}
+[Official version](https://doi.org/10.1145/1031453.1031456){:target="_blank"}

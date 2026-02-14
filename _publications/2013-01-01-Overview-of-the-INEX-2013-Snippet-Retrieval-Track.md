@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Overview-of-the-INEX-2013-Snippet-Retrieval-Track.bib'
 paperurl: 'https://ceur-ws.org/Vol-1179/CLEF2013wn-INEX-TrappettEt2013.pdf'
 citation: ' Matthew Trappett,  Shlomo Geva,  Andrew Trotman,  Falk Scholer,  Mark Sanderson, &quot;Overview of the INEX 2013 Snippet Retrieval Track.&quot; In the proceedings of Working Notes for CLEF 2013 Conference , Valencia, Spain, September 23-26, 2013, 2013.'
 ---
-[Official paper copy](https://ceur-ws.org/Vol-1179/CLEF2013wn-INEX-TrappettEt2013.pdf){:target="_blank"}
+[Official version](https://ceur-ws.org/Vol-1179/CLEF2013wn-INEX-TrappettEt2013.pdf){:target="_blank"}

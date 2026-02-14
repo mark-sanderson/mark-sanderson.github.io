@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Incorporating-word-attention-with-convolutional-neural-ne
 paperurl: 'https://doi.org/10.1007/s11280-019-00709-6'
 citation: ' Chengzhe Yuan,  Zhifeng Bao,  Mark Sanderson,  Yong Tang, &quot;Incorporating word attention with convolutional neural networks for abstractive summarization.&quot; World Wide Web, 2020.'
 ---
-[Official paper copy](https://doi.org/10.1007/s11280-019-00709-6){:target="_blank"}
+[Official version](https://doi.org/10.1007/s11280-019-00709-6){:target="_blank"}

@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Are-Web-based-informational-queries-changing.bib'
 paperurl: 'https://doi.org/10.1002/asi.21053'
 citation: ' Chadwyn Tann,  Mark Sanderson, &quot;Are Web-based informational queries changing?.&quot; J. Assoc. Inf. Sci. Technol., 2009.'
 ---
-[Official paper copy](https://doi.org/10.1002/asi.21053){:target="_blank"}
+[Official version](https://doi.org/10.1002/asi.21053){:target="_blank"}

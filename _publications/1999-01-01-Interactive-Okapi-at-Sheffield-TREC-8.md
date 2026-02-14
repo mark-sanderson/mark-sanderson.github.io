@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Interactive-Okapi-at-Sheffield---TREC-8.bib'
 paperurl: 'http://trec.nist.gov/pubs/trec8/papers/shef8.pdf'
 citation: ' Micheline Hancock{-}Beaulieu,  Helene Fowkes,  Nega Alemayehu,  Mark Sanderson, &quot;Interactive Okapi at Sheffield - TREC-8.&quot; In the proceedings of Proceedings of The Eighth Text REtrieval Conference, TREC 1999, Gaithersburg, Maryland, USA, November 17-19, 1999, 1999.'
 ---
-[Official paper copy](http://trec.nist.gov/pubs/trec8/papers/shef8.pdf){:target="_blank"}
+[Official version](http://trec.nist.gov/pubs/trec8/papers/shef8.pdf){:target="_blank"}

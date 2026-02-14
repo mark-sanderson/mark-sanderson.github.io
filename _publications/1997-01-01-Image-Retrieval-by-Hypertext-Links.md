@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Image-Retrieval-by-Hypertext-Links.bib'
 paperurl: 'https://doi.org/10.1145/258525.258594'
 citation: ' V. Harmandas,  Mark Sanderson,  Mark Dunlop, &quot;Image Retrieval by Hypertext Links.&quot; In the proceedings of SIGIR &amp;apos;97: Proceedings of the 20th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, July 27-31, 1997, Philadelphia, PA, USA, 1997.'
 ---
-[Official paper copy](https://doi.org/10.1145/258525.258594){:target="_blank"}
+[Official version](https://doi.org/10.1145/258525.258594){:target="_blank"}

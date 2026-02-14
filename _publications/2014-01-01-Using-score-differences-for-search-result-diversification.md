@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Using-score-differences-for-search-result-diversification
 paperurl: 'https://doi.org/10.1145/2600428.2609530'
 citation: ' Sadegh Kharazmi,  Mark Sanderson,  Falk Scholer,  David Vallet, &quot;Using score differences for search result diversification.&quot; In the proceedings of The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &amp;apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014, 2014.'
 ---
-[Official paper copy](https://doi.org/10.1145/2600428.2609530){:target="_blank"}
+[Official version](https://doi.org/10.1145/2600428.2609530){:target="_blank"}

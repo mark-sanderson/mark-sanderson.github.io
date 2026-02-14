@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Extracting-audio-summaries-to-support-effective-spoken-do
 paperurl: 'https://doi.org/10.1002/asi.23831'
 citation: ' Damiano Spina,  Johanne Trippas,  Lawrence Cavedon,  Mark Sanderson, &quot;Extracting audio summaries to support effective spoken document search.&quot; J. Assoc. Inf. Sci. Technol., 2017.'
 ---
-[Official paper copy](https://doi.org/10.1002/asi.23831){:target="_blank"}
+[Official version](https://doi.org/10.1002/asi.23831){:target="_blank"}

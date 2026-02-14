@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/An-Evaluation-Resource-for-Geographic-Information-Retriev
 paperurl: 'http://www.lrec-conf.org/proceedings/lrec2008/summaries/8.html'
 citation: ' Thomas Mandl,  Fredric Gey,  Giorgio Nunzio,  Nicola Ferro,  Mark Sanderson,  Diana Santos,  Christa Womser{-}Hacker, &quot;An Evaluation Resource for Geographic Information Retrieval.&quot; In the proceedings of Proceedings of the International Conference on Language Resources and Evaluation, LREC 2008, 26 May - 1 June 2008, Marrakech, Morocco, 2008.'
 ---
-[Official paper copy](http://www.lrec-conf.org/proceedings/lrec2008/summaries/8.html){:target="_blank"}
+[Official version](http://www.lrec-conf.org/proceedings/lrec2008/summaries/8.html){:target="_blank"}

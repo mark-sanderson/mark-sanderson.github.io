@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/GeoCLEF-the-CLEF-2005-Cross-Language-Geographic-Informati
 paperurl: 'https://ceur-ws.org/Vol-1171/CLEF2005wn-GeoCLEF-GeyEt2005.pdf'
 citation: ' Fredric Gey,  Ray Larson,  Mark Sanderson,  Hideo Joho,  Paul Clough, &quot;GeoCLEF: the CLEF 2005 Cross-Language Geographic Information Retrieval Track.&quot; In the proceedings of Working Notes for CLEF 2005 Workshop co-located with the 9th European Conference on Digital Libraries (ECDL 2005), Wien, Austria, September 21-22, 2005, 2005.'
 ---
-[Official paper copy](https://ceur-ws.org/Vol-1171/CLEF2005wn-GeoCLEF-GeyEt2005.pdf){:target="_blank"}
+[Official version](https://ceur-ws.org/Vol-1171/CLEF2005wn-GeoCLEF-GeyEt2005.pdf){:target="_blank"}

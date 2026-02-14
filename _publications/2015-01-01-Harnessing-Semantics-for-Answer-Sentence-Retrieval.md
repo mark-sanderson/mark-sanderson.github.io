@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Harnessing-Semantics-for-Answer-Sentence-Retrieval.bib'
 paperurl: 'https://doi.org/10.1145/2810133.2810136'
 citation: ' Ruey{-}Cheng Chen,  Damiano Spina,  W. Croft,  Mark Sanderson,  Falk Scholer, &quot;Harnessing Semantics for Answer Sentence Retrieval.&quot; In the proceedings of Proceedings of the Eighth Workshop on Exploiting Semantic Annotations in Information Retrieval, ESAIR 2015, Melbourne, Australia, October 23, 2015, 2015.'
 ---
-[Official paper copy](https://doi.org/10.1145/2810133.2810136){:target="_blank"}
+[Official version](https://doi.org/10.1145/2810133.2810136){:target="_blank"}

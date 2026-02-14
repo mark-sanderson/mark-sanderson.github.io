@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Investigating-Summarization-Techniques-for-Geo-Tagged-Ima
 paperurl: 'https://doi.org/10.1007/978-3-642-28997-2\_44'
 citation: ' Ahmet Aker,  Xin Fan,  Mark Sanderson,  Robert Gaizauskas, &quot;Investigating Summarization Techniques for Geo-Tagged Image Indexing.&quot; In the proceedings of Advances in Information Retrieval - 34th European Conference on IR Research, ECIR 2012, Barcelona, Spain, April 1-5, 2012. Proceedings, 2012.'
 ---
-[Official paper copy](https://doi.org/10.1007/978-3-642-28997-2\_44){:target="_blank"}
+[Official version](https://doi.org/10.1007/978-3-642-28997-2\_44){:target="_blank"}

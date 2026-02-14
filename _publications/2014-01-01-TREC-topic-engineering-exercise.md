@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/TREC-topic-engineering-exercise.bib'
 paperurl: 'https://doi.org/10.1145/2600428.2609531'
 citation: ' J. Culpepper,  Stefano Mizzaro,  Mark Sanderson,  Falk Scholer, &quot;TREC: topic engineering exercise.&quot; In the proceedings of The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR &amp;apos;14, Gold Coast , QLD, Australia - July 06 - 11, 2014, 2014.'
 ---
-[Official paper copy](https://doi.org/10.1145/2600428.2609531){:target="_blank"}
+[Official version](https://doi.org/10.1145/2600428.2609531){:target="_blank"}

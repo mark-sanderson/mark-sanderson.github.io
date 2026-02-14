@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Revisiting-emphh-measured-on-UK-LIS-and-IR-academics.bib'
 paperurl: 'https://doi.org/10.1002/asi.20771'
 citation: ' Mark Sanderson, &quot;Revisiting emphh measured on UK LIS and IR academics.&quot; J. Assoc. Inf. Sci. Technol., 2008.'
 ---
-[Official paper copy](https://doi.org/10.1002/asi.20771){:target="_blank"}
+[Official version](https://doi.org/10.1002/asi.20771){:target="_blank"}

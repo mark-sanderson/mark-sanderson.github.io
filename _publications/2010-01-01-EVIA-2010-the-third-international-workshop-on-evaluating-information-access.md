@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/EVIA-2010-the-third-international-workshop-on-evaluating-
 paperurl: 'https://doi.org/10.1145/1924475.1924490'
 citation: ' William Webber,  Tetsuya Sakai,  Mark Sanderson, &quot;EVIA 2010: the third international workshop on evaluating information access.&quot; SIGIR Forum, 2010.'
 ---
-[Official paper copy](https://doi.org/10.1145/1924475.1924490){:target="_blank"}
+[Official version](https://doi.org/10.1145/1924475.1924490){:target="_blank"}

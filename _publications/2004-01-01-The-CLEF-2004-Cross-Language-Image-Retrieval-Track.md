@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/The-CLEF-2004-Cross-Language-Image-Retrieval-Track.bib'
 paperurl: 'https://doi.org/10.1007/11519645\_59'
 citation: ' Paul Clough,  Henning M{\&quot;{u}}ller,  Mark Sanderson, &quot;The CLEF 2004 Cross-Language Image Retrieval Track.&quot; In the proceedings of Multilingual Information Access for Text, Speech and Images, 5th Workshop of the Cross-Language Evaluation Forum, CLEF 2004, Bath, UK, September 15-17, 2004, Revised Selected Papers, 2004.'
 ---
-[Official paper copy](https://doi.org/10.1007/11519645\_59){:target="_blank"}
+[Official version](https://doi.org/10.1007/11519645\_59){:target="_blank"}

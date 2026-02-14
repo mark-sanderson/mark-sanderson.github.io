@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Advantages-of-Query-Biased-Summaries-in-Information-Retri
 paperurl: 'https://doi.org/10.1145/290941.290947'
 citation: ' Anastasios Tombros,  Mark Sanderson, &quot;Advantages of Query Biased Summaries in Information Retrieval.&quot; In the proceedings of SIGIR &amp;apos;98: Proceedings of the 21st Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, August 24-28 1998, Melbourne, Australia, 1998.'
 ---
-[Official paper copy](https://doi.org/10.1145/290941.290947){:target="_blank"}
+[Official version](https://doi.org/10.1145/290941.290947){:target="_blank"}
