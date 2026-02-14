@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3340531.3412043'
 citation: ' Valeria Bolotova,  Vladislav Blinov,  Yukun Zheng,  W. Croft,  Falk Scholer,  Mark Sanderson, &quot;Do People and Neural Nets Pay Attention to the Same Words: Studying Eye-tracking Data for Non-factoid QA Evaluation.&quot; In the proceedings of CIKM &amp;apos;20: The 29th ACM International Conference on Information and Knowledge Management, Virtual Event, Ireland, October 19-23, 2020, 2020.'
 ---
 [Official version](https://doi.org/10.1145/3340531.3412043){:target="_blank"}
-[ | Local PDF](/files/papers/CIKM__Do_People_and_Neural_Networks_Pay_Attention_to_the_Same_Words_.pdf){:target="_blank"}
+ | [Local PDF](/files/papers/CIKM__Do_People_and_Neural_Networks_Pay_Attention_to_the_Same_Words_.pdf){:target="_blank"}

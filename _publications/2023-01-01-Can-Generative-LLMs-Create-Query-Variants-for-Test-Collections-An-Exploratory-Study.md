@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3539618.3591960'
 citation: ' Marwah Alaofi,  Luke Gallagher,  Mark Sanderson,  Falk Scholer,  Paul Thomas, &quot;Can Generative LLMs Create Query Variants for Test Collections? An Exploratory Study.&quot; In the proceedings of Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2023, Taipei, Taiwan, July 23-27, 2023, 2023.'
 ---
 [Official version](https://doi.org/10.1145/3539618.3591960){:target="_blank"}
-[ | Local PDF](/files/papers/SIGIR_23_GPT.pdf){:target="_blank"}
+ | [Local PDF](/files/papers/SIGIR_23_GPT.pdf){:target="_blank"}

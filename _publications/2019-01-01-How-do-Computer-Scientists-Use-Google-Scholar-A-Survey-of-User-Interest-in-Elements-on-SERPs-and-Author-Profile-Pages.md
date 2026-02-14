@@ -11,4 +11,4 @@ paperurl: 'https://ceur-ws.org/Vol-2345/paper6.pdf'
 citation: ' Jaewon Kim,  Johanne Trippas,  Mark Sanderson,  Zhifeng Bao,  W. Croft, &quot;How do Computer Scientists Use Google Scholar?: A Survey of User Interest in Elements on SERPs and Author Profile Pages.&quot; In the proceedings of Proceedings of the 8th International Workshop on Bibliometric-enhanced Information Retrieval (BIR 2019) co-located with the 41st European Conference on Information Retrieval (ECIR 2019), Cologne, Germany, April 14, 2019, 2019.'
 ---
 [Official version](https://ceur-ws.org/Vol-2345/paper6.pdf){:target="_blank"}
-[ | Local PDF](/files/papers/ktsbc19_ecir-bir.pdf){:target="_blank"}
+ | [Local PDF](/files/papers/ktsbc19_ecir-bir.pdf){:target="_blank"}

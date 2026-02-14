@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3477495.3531926'
 citation: ' Valeria Bolotova,  Vladislav Blinov,  Falk Scholer,  W. Croft,  Mark Sanderson, &quot;A Non-Factoid Question-Answering Taxonomy.&quot; In the proceedings of SIGIR &amp;apos;22: The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid, Spain, July 11 - 15, 2022, 2022.'
 ---
 [Official version](https://doi.org/10.1145/3477495.3531926){:target="_blank"}
-[ | Local PDF](/files/papers/SIGIR_taxonomy.pdf){:target="_blank"}
+ | [Local PDF](/files/papers/SIGIR_taxonomy.pdf){:target="_blank"}

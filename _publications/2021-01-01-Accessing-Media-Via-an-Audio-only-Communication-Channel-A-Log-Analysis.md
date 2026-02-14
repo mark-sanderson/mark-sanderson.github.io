@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3469595.3469623'
 citation: ' Johanne Trippas,  Damiano Spina,  Mark Sanderson,  Lawrence Cavedon, &quot;Accessing Media Via an Audio-only Communication Channel: A Log Analysis.&quot; In the proceedings of CUI 2021 - 3rd Conference on Conversational User Interfaces, Virtual Event / Bilbao, Spain, July 27-29, 2021, 2021.'
 ---
 [Official version](https://doi.org/10.1145/3469595.3469623){:target="_blank"}
-[ | Local PDF](/files/papers/trippas2021accessing.pdf){:target="_blank"}
+ | [Local PDF](/files/papers/trippas2021accessing.pdf){:target="_blank"}
