@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Understanding-collaborative-search-for-places-of-interest
 paperurl: 'https://doi.org/10.1002/asi.23466'
 citation: ' Misfer Aldosari,  Mark Sanderson,  Audrey Tam,  Alexandra Uitdenbogerd, &quot;Understanding collaborative search for places of interest.&quot; J. Assoc. Inf. Sci. Technol., 2016.'
 ---
-[Access paper here](https://doi.org/10.1002/asi.23466){:target="_blank"}
+[Official paper copy](https://doi.org/10.1002/asi.23466){:target="_blank"}

@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Document-Summarization-for-Answering-Non-Factoid-Queries.
 paperurl: 'https://doi.org/10.1109/TKDE.2017.2754373'
 citation: ' Evi Yulianti,  Ruey{-}Cheng Chen,  Falk Scholer,  W. Croft,  Mark Sanderson, &quot;Document Summarization for Answering Non-Factoid Queries.&quot; IEEE Trans. Knowl. Data Eng., 2018.'
 ---
-[Access paper here](https://doi.org/10.1109/TKDE.2017.2754373){:target="_blank"}
+[Official paper copy](https://doi.org/10.1109/TKDE.2017.2754373){:target="_blank"}

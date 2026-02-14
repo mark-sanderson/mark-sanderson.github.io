@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Interactive-Cross-Language-Document-Selection.bib'
 paperurl: 'https://doi.org/10.1023/B:INRT.0000009446.22036.e3'
 citation: ' Douglas Oard,  Julio Gonzalo,  Mark Sanderson,  Fernando L{\&apos;{o}}pez{-}Ostenero,  Jianqiang Wang, &quot;Interactive Cross-Language Document Selection.&quot; Inf. Retr., 2004.'
 ---
-[Access paper here](https://doi.org/10.1023/B:INRT.0000009446.22036.e3){:target="_blank"}
+[Official paper copy](https://doi.org/10.1023/B:INRT.0000009446.22036.e3){:target="_blank"}

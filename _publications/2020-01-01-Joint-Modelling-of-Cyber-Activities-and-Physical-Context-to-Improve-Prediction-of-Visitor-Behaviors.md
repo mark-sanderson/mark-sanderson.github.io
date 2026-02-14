@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Joint-Modelling-of-Cyber-Activities-and-Physical-Context-
 paperurl: 'https://doi.org/10.1145/3393692'
 citation: ' Manpreet Kaur,  Flora Salim,  Yongli Ren,  Jeffrey Chan,  Martin Tomko,  Mark Sanderson, &quot;Joint Modelling of Cyber Activities and Physical Context to Improve Prediction of Visitor Behaviors.&quot; ACM Trans. Sens. Networks, 2020.'
 ---
-[Access paper here](https://doi.org/10.1145/3393692){:target="_blank"}
+[Official paper copy](https://doi.org/10.1145/3393692){:target="_blank"}

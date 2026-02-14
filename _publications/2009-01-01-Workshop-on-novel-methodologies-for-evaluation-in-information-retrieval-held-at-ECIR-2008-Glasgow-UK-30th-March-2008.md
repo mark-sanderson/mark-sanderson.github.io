@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Workshop-on-novel-methodologies-for-evaluation-in-informa
 paperurl: 'https://doi.org/10.1145/1670598.1670612'
 citation: ' Mark Sanderson, &quot;Workshop on novel methodologies for evaluation in information retrieval: held at ECIR 2008, Glasgow, UK, 30th March, 2008.&quot; SIGIR Forum, 2009.'
 ---
-[Access paper here](https://doi.org/10.1145/1670598.1670612){:target="_blank"}
+[Official paper copy](https://doi.org/10.1145/1670598.1670612){:target="_blank"}

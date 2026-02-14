@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Ranking-of-library-and-information-science-researchers-Co
 paperurl: 'https://doi.org/10.1016/j.joi.2010.06.005'
 citation: ' Jiang Li,  Mark Sanderson,  Peter Willett,  Michael Norris,  Charles Oppenheim, &quot;Ranking of library and information science researchers: Comparison of data sources for correlating citation data, and expert judgments.&quot; J. Informetrics, 2010.'
 ---
-[Access paper here](https://doi.org/10.1016/j.joi.2010.06.005){:target="_blank"}
+[Official paper copy](https://doi.org/10.1016/j.joi.2010.06.005){:target="_blank"}

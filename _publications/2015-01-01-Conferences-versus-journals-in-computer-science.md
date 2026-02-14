@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Conferences-versus-journals-in-computer-science.bib'
 paperurl: 'https://doi.org/10.1002/asi.23349'
 citation: ' George Vrettas,  Mark Sanderson, &quot;Conferences versus journals in computer science.&quot; J. Assoc. Inf. Sci. Technol., 2015.'
 ---
-[Access paper here](https://doi.org/10.1002/asi.23349){:target="_blank"}
+[Official paper copy](https://doi.org/10.1002/asi.23349){:target="_blank"}

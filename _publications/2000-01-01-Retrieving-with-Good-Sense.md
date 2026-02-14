@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Retrieving-with-Good-Sense.bib'
 paperurl: 'https://doi.org/10.1023/A:1009933700147'
 citation: ' Mark Sanderson, &quot;Retrieving with Good Sense.&quot; Inf. Retr., 2000.'
 ---
-[Access paper here](https://doi.org/10.1023/A:1009933700147){:target="_blank"}
+[Official paper copy](https://doi.org/10.1023/A:1009933700147){:target="_blank"}

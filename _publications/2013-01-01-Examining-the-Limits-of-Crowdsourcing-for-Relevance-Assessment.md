@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Examining-the-Limits-of-Crowdsourcing-for-Relevance-Asses
 paperurl: 'https://doi.org/10.1109/MIC.2012.95'
 citation: ' Paul Clough,  Mark Sanderson,  Jiayu Tang,  Tim Gollins,  Amy Warner, &quot;Examining the Limits of Crowdsourcing for Relevance Assessment.&quot; IEEE Internet Comput., 2013.'
 ---
-[Access paper here](https://doi.org/10.1109/MIC.2012.95){:target="_blank"}
+[Official paper copy](https://doi.org/10.1109/MIC.2012.95){:target="_blank"}

@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Retrieving-Descriptive-Phrases-from-Large-Amounts-of-Free
 paperurl: 'https://doi.org/10.1145/354756.354817'
 citation: ' Hideo Joho,  Mark Sanderson, &quot;Retrieving Descriptive Phrases from Large Amounts of Free Text.&quot; In the proceedings of Proceedings of the 2000 ACM CIKM International Conference on Information and Knowledge Management, McLean, VA, USA, November 6-11, 2000, 2000.'
 ---
-[Access paper here](https://doi.org/10.1145/354756.354817){:target="_blank"}
+[Official paper copy](https://doi.org/10.1145/354756.354817){:target="_blank"}

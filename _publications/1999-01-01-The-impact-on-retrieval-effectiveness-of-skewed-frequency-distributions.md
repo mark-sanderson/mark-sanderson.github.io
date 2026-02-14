@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/The-impact-on-retrieval-effectiveness-of-skewed-frequency
 paperurl: 'https://doi.org/10.1145/326440.326447'
 citation: ' Mark Sanderson,  C. Rijsbergen, &quot;The impact on retrieval effectiveness of skewed frequency distributions.&quot; ACM Trans. Inf. Syst., 1999.'
 ---
-[Access paper here](https://doi.org/10.1145/326440.326447){:target="_blank"}
+[Official paper copy](https://doi.org/10.1145/326440.326447){:target="_blank"}

@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/The-History-of-Information-Retrieval-Research.bib'
 paperurl: 'https://doi.org/10.1109/JPROC.2012.2189916'
 citation: ' Mark Sanderson,  W. Croft, &quot;The History of Information Retrieval Research.&quot; Proc. IEEE, 2012.'
 ---
-[Access paper here](https://doi.org/10.1109/JPROC.2012.2189916){:target="_blank"}
+[Official paper copy](https://doi.org/10.1109/JPROC.2012.2189916){:target="_blank"}

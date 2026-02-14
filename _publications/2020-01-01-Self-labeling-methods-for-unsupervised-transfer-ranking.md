@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Self-labeling-methods-for-unsupervised-transfer-ranking.b
 paperurl: 'https://doi.org/10.1016/j.ins.2019.12.067'
 citation: ' Pengfei Li,  Mark Sanderson,  Mark Carman,  Falk Scholer, &quot;Self-labeling methods for unsupervised transfer ranking.&quot; Inf. Sci., 2020.'
 ---
-[Access paper here](https://doi.org/10.1016/j.ins.2019.12.067){:target="_blank"}
+[Official paper copy](https://doi.org/10.1016/j.ins.2019.12.067){:target="_blank"}

@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/CLEF-2014-Information-Access-Evaluation-meets-Multilingua
 paperurl: 'https://doi.org/10.1145/2701583.2701589'
 citation: ' Linda Cappellato,  Paul Clough,  Nicola Ferro,  Mark Hall,  Martin Halvey,  Allan Hanbury,  Evangelos Kanoulas,  Wessel Kraaij,  Mihai Lupu,  Mark Sanderson,  Elaine Toms,  Robert Villa, &quot;CLEF 2014: Information Access Evaluation meets Multilinguality, Multimodality, and Interaction.&quot; SIGIR Forum, 2014.'
 ---
-[Access paper here](https://doi.org/10.1145/2701583.2701589){:target="_blank"}
+[Official paper copy](https://doi.org/10.1145/2701583.2701589){:target="_blank"}

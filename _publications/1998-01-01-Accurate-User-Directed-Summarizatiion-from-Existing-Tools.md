@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Accurate-User-Directed-Summarizatiion-from-Existing-Tools
 paperurl: 'https://doi.org/10.1145/288627.288640'
 citation: ' Mark Sanderson, &quot;Accurate User Directed Summarizatiion from Existing Tools.&quot; In the proceedings of Proceedings of the 1998 ACM CIKM International Conference on Information and Knowledge Management, Bethesda, Maryland, USA, November 3-7, 1998, 1998.'
 ---
-[Access paper here](https://doi.org/10.1145/288627.288640){:target="_blank"}
+[Official paper copy](https://doi.org/10.1145/288627.288640){:target="_blank"}

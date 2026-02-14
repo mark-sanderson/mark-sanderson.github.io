@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Popularity-Bias-in-False-positive-Metrics-for-Recommender
 paperurl: 'https://doi.org/10.1145/3452740'
 citation: ' Elisa Mena{-}Maldonado,  Roc{\&apos;{\i}}o Ca{\~{n}}amares,  Pablo Castells,  Yongli Ren,  Mark Sanderson, &quot;Popularity Bias in False-positive Metrics for Recommender Systems Evaluation.&quot; ACM Trans. Inf. Syst., 2021.'
 ---
-[Access paper here](https://doi.org/10.1145/3452740){:target="_blank"}
+[Official paper copy](https://doi.org/10.1145/3452740){:target="_blank"}

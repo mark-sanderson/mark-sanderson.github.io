@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/The-effect-of-folder-structure-on-personal-file-navigatio
 paperurl: 'https://doi.org/10.1002/asi.21415'
 citation: ' Ofer Bergman,  Steve Whittaker,  Mark Sanderson,  Rafi Nachmias,  Anand Ramamoorthy, &quot;The effect of folder structure on personal file navigation.&quot; J. Assoc. Inf. Sci. Technol., 2010.'
 ---
-[Access paper here](https://doi.org/10.1002/asi.21415){:target="_blank"}
+[Official paper copy](https://doi.org/10.1002/asi.21415){:target="_blank"}

@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Building-a-Diversity-Featured-Search-System-by-Fusing-Exi
 paperurl: 'https://ceur-ws.org/Vol-1174/CLEF2008wn-ImageCLEF-TangEt2008.pdf'
 citation: ' Jiayu Tang,  Thomas Arni,  Mark Sanderson,  Paul Clough, &quot;Building a Diversity Featured Search System by Fusing Existing Tools.&quot; In the proceedings of Working Notes for CLEF 2008 Workshop co-located with the 12th European Conference on Digital Libraries (ECDL 2008) , Aarhus, Denmark, September 17-19, 2008, 2008.'
 ---
-[Access paper here](https://ceur-ws.org/Vol-1174/CLEF2008wn-ImageCLEF-TangEt2008.pdf){:target="_blank"}
+[Official paper copy](https://ceur-ws.org/Vol-1174/CLEF2008wn-ImageCLEF-TangEt2008.pdf){:target="_blank"}

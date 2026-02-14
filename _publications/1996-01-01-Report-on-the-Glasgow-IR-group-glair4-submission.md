@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Report-on-the-Glasgow-IR-group-glair4-submission.bib'
 paperurl: 'http://trec.nist.gov/pubs/trec5/papers/glasgow.new.ps.gz'
 citation: ' Mark Sanderson,  Ian Ruthven, &quot;Report on the Glasgow IR group (glair4) submission.&quot; In the proceedings of Proceedings of The Fifth Text REtrieval Conference, TREC 1996, Gaithersburg, Maryland, USA, November 20-22, 1996, 1996.'
 ---
-[Access paper here](http://trec.nist.gov/pubs/trec5/papers/glasgow.new.ps.gz){:target="_blank"}
+[Official paper copy](http://trec.nist.gov/pubs/trec5/papers/glasgow.new.ps.gz){:target="_blank"}

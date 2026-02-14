@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/D-Log-A-WiFi-Log-based-differential-scheme-for-enhanced-i
 paperurl: 'https://doi.org/10.1016/j.pmcj.2016.09.018'
 citation: ' Yongli Ren,  Flora Salim,  Martin Tomko,  Yuntian Bai,  Jeffrey Chan,  Kyle Qin,  Mark Sanderson, &quot;D-Log: A WiFi Log-based differential scheme for enhanced indoor localization with single RSSI source and infrequent sampling rate.&quot; Pervasive Mob. Comput., 2017.'
 ---
-[Access paper here](https://doi.org/10.1016/j.pmcj.2016.09.018){:target="_blank"}
+[Official paper copy](https://doi.org/10.1016/j.pmcj.2016.09.018){:target="_blank"}

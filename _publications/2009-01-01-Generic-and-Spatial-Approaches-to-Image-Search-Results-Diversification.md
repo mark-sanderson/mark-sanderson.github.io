@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Generic-and-Spatial-Approaches-to-Image-Search-Results-Di
 paperurl: 'https://doi.org/10.1007/978-3-642-00958-7\_56'
 citation: ' Monica Paramita,  Jiayu Tang,  Mark Sanderson, &quot;Generic and Spatial Approaches to Image Search Results Diversification.&quot; In the proceedings of Advances in Information Retrieval, 31th European Conference on IR Research, ECIR 2009, Toulouse, France, April 6-9, 2009. Proceedings, 2009.'
 ---
-[Access paper here](https://doi.org/10.1007/978-3-642-00958-7\_56){:target="_blank"}
+[Official paper copy](https://doi.org/10.1007/978-3-642-00958-7\_56){:target="_blank"}

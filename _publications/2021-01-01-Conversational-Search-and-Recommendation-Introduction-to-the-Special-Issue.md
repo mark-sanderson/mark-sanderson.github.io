@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Conversational-Search-and-Recommendation-Introduction-to-
 paperurl: 'https://doi.org/10.1145/3465272'
 citation: ' Claudia Hauff,  Julia Kiseleva,  Mark Sanderson,  Hamed Zamani,  Yongfeng Zhang, &quot;Conversational Search and Recommendation: Introduction to the Special Issue.&quot; ACM Trans. Inf. Syst., 2021.'
 ---
-[Access paper here](https://doi.org/10.1145/3465272){:target="_blank"}
+[Official paper copy](https://doi.org/10.1145/3465272){:target="_blank"}

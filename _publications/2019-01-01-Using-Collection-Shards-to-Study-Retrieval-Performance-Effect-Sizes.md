@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Using-Collection-Shards-to-Study-Retrieval-Performance-Ef
 paperurl: 'https://doi.org/10.1145/3310364'
 citation: ' Nicola Ferro,  Yubin Kim,  Mark Sanderson, &quot;Using Collection Shards to Study Retrieval Performance Effect Sizes.&quot; ACM Trans. Inf. Syst., 2019.'
 ---
-[Access paper here](https://doi.org/10.1145/3310364){:target="_blank"}
+[Official paper copy](https://doi.org/10.1145/3310364){:target="_blank"}

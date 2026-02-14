@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/SpeakerLDA-Discovering-Topics-in-Transcribed-Multi-Speake
 paperurl: 'https://doi.org/10.1145/2802558.2814649'
 citation: ' Damiano Spina,  Johanne Trippas,  Lawrence Cavedon,  Mark Sanderson, &quot;SpeakerLDA: Discovering Topics in Transcribed Multi-Speaker Audio Contents.&quot; In the proceedings of Proceedings of the Third Edition Workshop on Speech, Language &amp;amp; Audio in Multimedia, SLAM 2015, Brisbane, Australia, October 30, 2015, 2015.'
 ---
-[Access paper here](https://doi.org/10.1145/2802558.2814649){:target="_blank"}
+[Official paper copy](https://doi.org/10.1145/2802558.2814649){:target="_blank"}

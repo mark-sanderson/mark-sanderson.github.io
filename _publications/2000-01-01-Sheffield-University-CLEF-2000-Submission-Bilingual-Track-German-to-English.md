@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Sheffield-University-CLEF-2000-Submission-Bilingual-Track
 paperurl: 'https://ceur-ws.org/Vol-1166/CLEF2000wn-adhoc-GollinsEt2000.pdf'
 citation: ' Tim Gollins,  Mark Sanderson, &quot;Sheffield University: CLEF 2000 Submission (Bilingual Track - German to English).&quot; In the proceedings of Working Notes for CLEF 2000 Workshop co-located with the 4th European Conference on Digital Libraries (ECDL 2000), Lisbon, Portugal, September 21-22, 2000, 2000.'
 ---
-[Access paper here](https://ceur-ws.org/Vol-1166/CLEF2000wn-adhoc-GollinsEt2000.pdf){:target="_blank"}
+[Official paper copy](https://ceur-ws.org/Vol-1166/CLEF2000wn-adhoc-GollinsEt2000.pdf){:target="_blank"}

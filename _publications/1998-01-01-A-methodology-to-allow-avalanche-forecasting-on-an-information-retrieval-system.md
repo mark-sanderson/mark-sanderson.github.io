@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/A-methodology-to-allow-avalanche-forecasting-on-an-inform
 paperurl: 'https://doi.org/10.1108/EUM0000000007166'
 citation: ' Ross Purves,  Mark Sanderson, &quot;A methodology to allow avalanche forecasting on an information retrieval system.&quot; J. Documentation, 1998.'
 ---
-[Access paper here](https://doi.org/10.1108/EUM0000000007166){:target="_blank"}
+[Official paper copy](https://doi.org/10.1108/EUM0000000007166){:target="_blank"}

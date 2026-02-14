@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Which-user-interaction-for-cross-language-information-ret
 paperurl: 'https://doi.org/10.1002/asi.20332'
 citation: ' Daniela Petrelli,  Stephen Levin,  Micheline Beaulieu,  Mark Sanderson, &quot;Which user interaction for cross-language information retrieval? Design issues and reflections.&quot; J. Assoc. Inf. Sci. Technol., 2006.'
 ---
-[Access paper here](https://doi.org/10.1002/asi.20332){:target="_blank"}
+[Official paper copy](https://doi.org/10.1002/asi.20332){:target="_blank"}

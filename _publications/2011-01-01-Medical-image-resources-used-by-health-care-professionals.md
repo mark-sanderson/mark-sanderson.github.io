@@ -9,4 +9,4 @@ bibtexurl: '/files/bib/Medical-image-resources-used-by-health-care-professionals
 paperurl: 'https://doi.org/10.1108/00012531111187225'
 citation: ' Shahram Sedghi,  Mark Sanderson,  Paul Clough, &quot;Medical image resources used by health care professionals.&quot; Aslib Proc., 2011.'
 ---
-[Access paper here](https://doi.org/10.1108/00012531111187225){:target="_blank"}
+[Official paper copy](https://doi.org/10.1108/00012531111187225){:target="_blank"}
