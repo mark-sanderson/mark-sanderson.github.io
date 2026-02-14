@@ -50,7 +50,8 @@ pdf_map_path = "./_publications/pdf_map.json"
 
 with open(pdf_map_path, "r", encoding="utf-8") as f:
     pdf_map = json.load(f)                # dict: bib_id -> pdf filename
-    
+if not isinstance(pdf_map, dict):
+    raise ValueError("pdf_map.json must contain a JSON object mapping bib_id -> filename")
     
 # Create files/bib directory if it doesn't exist
 bib_dir = "./files/bib"
@@ -156,6 +157,15 @@ for pubsource in publist:
             
             # Add bibtexurl to markdown
             md += f"\nbibtexurl: '/files/bib/{bib_filename}'"
+
+            # Add local PDF link from JSON map (Option C)
+            pdf_filename = pdf_map.get(bib_id)  # e.g. "RMIT_preprint_final_v3.pdf"
+            if pdf_filename:
+                pdf_path = os.path.join(pdf_dir, pdf_filename)
+                if os.path.exists(pdf_path):
+                    md += f"\npdfurl: '/files/papers/{pdf_filename}'"
+                else:
+                    print(f"WARNING PDF mapped for {bib_id} but file not found: {pdf_path}")
             
             url = False
             if "url" in b.keys():
@@ -176,6 +186,9 @@ for pubsource in publist:
                 md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
             else:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
+
+            if pdf_filename and os.path.exists(os.path.join(pdf_dir, pdf_filename)):
+                md += f"\n[Download local PDF](/files/papers/{pdf_filename})" + "{:target=\"_blank\"}\n"
 
             md_filename = os.path.basename(md_filename)
 
