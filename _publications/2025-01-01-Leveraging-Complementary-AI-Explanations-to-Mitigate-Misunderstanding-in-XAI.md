@@ -6,9 +6,9 @@ permalink: /publication/2025-01-01-Leveraging-Complementary-AI-Explanations-to-M
 date: 2025-01-01
 venue: 'In the proceedings of IEEE Swiss Conference on Data Science, SDS 2025, Z&quot;urich, Switzerland, June 26-27, 2025'
 bibtexurl: '/files/bib/Leveraging-Complementary-AI-Explanations-to-Mitigate-Misunderstanding-in-XAI.bib'
-pdfurl: '/files/papers/IJHCS_manuscript_user_study_on_explainability.pdf'
+pdfurl: '/files/papers/2503.00303v2.pdf'
 paperurl: 'https://doi.org/10.1109/SDS66131.2025.00034'
 citation: ' Yueqing Xuan,  Kacper Sokol,  Mark Sanderson,  Jeffrey Chan, &quot;Leveraging Complementary AI Explanations to Mitigate Misunderstanding in XAI.&quot; In the proceedings of IEEE Swiss Conference on Data Science, SDS 2025, Z&amp;quot;urich, Switzerland, June 26-27, 2025, 2025.'
 ---
 [Official version](https://doi.org/10.1109/SDS66131.2025.00034){:target="_blank"}
- | [Local PDF](/files/papers/IJHCS_manuscript_user_study_on_explainability.pdf){:target="_blank"}
+ | [Local PDF](/files/papers/2503.00303v2.pdf){:target="_blank"}
