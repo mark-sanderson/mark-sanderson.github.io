@@ -6,7 +6,9 @@ permalink: /publication/2017-01-01-Beyond-the-Culture-Effect-on-Credibility-Perc
 date: 2017-01-01
 venue: 'In the proceedings of Social Informatics - 9th International Conference, SocInfo 2017, Oxford, UK, September 13-15, 2017, Proceedings, Part II'
 bibtexurl: '/files/bib/Beyond-the-Culture-Effect-on-Credibility-Perception-on-Microblogs.bib'
+pdfurl: '/files/papers/SocInfo2017.pdf'
 paperurl: 'https://doi.org/10.1007/978-3-319-67256-4\_25'
 citation: ' Suliman Aladhadh,  Xiuzhen Zhang,  Mark Sanderson, &quot;Beyond the Culture Effect on Credibility Perception on Microblogs.&quot; In the proceedings of Social Informatics - 9th International Conference, SocInfo 2017, Oxford, UK, September 13-15, 2017, Proceedings, Part II, 2017.'
 ---
 [Official version](https://doi.org/10.1007/978-3-319-67256-4\_25){:target="_blank"}
+ | [Local PDF](/files/papers/SocInfo2017.pdf){:target="_blank"}

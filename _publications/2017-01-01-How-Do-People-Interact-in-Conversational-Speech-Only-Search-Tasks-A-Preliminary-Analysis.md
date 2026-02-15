@@ -6,7 +6,9 @@ permalink: /publication/2017-01-01-How-Do-People-Interact-in-Conversational-Spee
 date: 2017-01-01
 venue: 'In the proceedings of Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval, CHIIR 2017, Oslo, Norway, March 7-11, 2017'
 bibtexurl: '/files/bib/How-Do-People-Interact-in-Conversational-Speech-Only-Search-Tasks-A-Preliminary-Analysis.bib'
+pdfurl: '/files/papers/chiir097s-trippasA.pdf'
 paperurl: 'https://doi.org/10.1145/3020165.3022144'
 citation: ' Johanne Trippas,  Damiano Spina,  Lawrence Cavedon,  Mark Sanderson, &quot;How Do People Interact in Conversational Speech-Only Search Tasks: A Preliminary Analysis.&quot; In the proceedings of Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval, CHIIR 2017, Oslo, Norway, March 7-11, 2017, 2017.'
 ---
 [Official version](https://doi.org/10.1145/3020165.3022144){:target="_blank"}
+ | [Local PDF](/files/papers/chiir097s-trippasA.pdf){:target="_blank"}
