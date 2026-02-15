@@ -50,4 +50,6 @@ jobs:
         git add _publications/
         git add files/bib/
         git commit -m "Auto-update publications from BibTeX files"
+        git fetch origin master
+        git rebase origin/master
         git push
