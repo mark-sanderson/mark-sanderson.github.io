@@ -6,7 +6,9 @@ permalink: /publication/2016-01-01-Correlation-Analysis-of-Readers-Demographics-
 date: 2016-01-01
 venue: 'In the proceedings of Advances in Information Retrieval - 38th European Conference on IR Research, ECIR 2016, Padua, Italy, March 20-23, 2016. Proceedings'
 bibtexurl: '/files/bib/Correlation-Analysis-of-Readers-Demographics-and-Tweet-Credibility-Perception.bib'
+pdfurl: '/files/papers/ECIR2016.pdf'
 paperurl: 'https://doi.org/10.1007/978-3-319-30671-1\_33'
 citation: ' Shafiza Shariff,  Mark Sanderson,  Xiuzhen Zhang, &quot;Correlation Analysis of Reader&amp;apos;s Demographics and Tweet Credibility Perception.&quot; In the proceedings of Advances in Information Retrieval - 38th European Conference on IR Research, ECIR 2016, Padua, Italy, March 20-23, 2016. Proceedings, 2016.'
 ---
 [Official version](https://doi.org/10.1007/978-3-319-30671-1\_33){:target="_blank"}
+ | [Local PDF](/files/papers/ECIR2016.pdf){:target="_blank"}
