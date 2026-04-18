@@ -37,6 +37,7 @@ PhD Completed
 27. Dr. Valeriia Baranova
 28. Dr. Hiruni Kegalle
 29. Dr. Marwah Alaofi
+30. Dr. Yueqing Xuan
 
 Current PhD Students
 --------------------
@@ -46,7 +47,7 @@ Current PhD Students
 * Raja Piyush
 * Sara Fahad Dawood Al Lawati
 * A Fathima Sharfana
-* Yueqing Xuan
+* Nadisha Madhushanie
 
 
  
