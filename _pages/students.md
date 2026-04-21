@@ -6,6 +6,7 @@ author_profile: true
 
 I have had the priviledge to work with a great many students. Here I list of completed PhD students along with the students I'm currently working with. I (will) also list some of the Masters and Honours students whose projects we were able to get to a publication.
 
+
 PhD Completed
 -------------
 1. Dr. Hideo Joho
