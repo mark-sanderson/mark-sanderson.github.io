@@ -8,4 +8,4 @@ venue: 'Electron. Publ.'
 bibtexurl: '/files/bib/NRT-News-Retrieval-Tool.bib'
 citation: ' Mark Sanderson,  C. Rijsbergen, &quot;NRT: News Retrieval Tool.&quot; Electron. Publ., 1991.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=NRT:+News+Retrieval+Tool){:target="_blank"} for full citation
+Search [Google Scholar](https://scholar.google.com/scholar?q=NRT:+News+Retrieval+Tool){:target="_blank"} for paper
