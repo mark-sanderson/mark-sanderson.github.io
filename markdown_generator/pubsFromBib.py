@@ -185,11 +185,11 @@ for pubsource in publist:
             if url:
                 md += "\n[Official version](" + b["url"] + "){:target=\"_blank\"}"
                 if pdf_filename and os.path.exists(os.path.join(pdf_dir, pdf_filename)):
-                    md += f"\n | [Local PDF](/files/papers/{pdf_filename})" + "{:target=\"_blank\"}\n"
+                    md += f"\n | [Download Local PDF](/files/papers/{pdf_filename})" + "{:target=\"_blank\"}\n"
             else:
-                if pdf_filename and os.path.exists(os.path.join(pdf_dir, pdf_filename)):
-                    md += f"\n[Local PDF](/files/papers/{pdf_filename})" + "{:target=\"_blank\"} | \n"
                 md += "\nSearch [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for paper"
+                if pdf_filename and os.path.exists(os.path.join(pdf_dir, pdf_filename)):
+                    md += f"\n | [Download Local PDF](/files/papers/{pdf_filename})" + "{:target=\"_blank\"} | \n"
 
 
             md_filename = os.path.basename(md_filename)
