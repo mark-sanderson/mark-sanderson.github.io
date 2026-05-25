@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/2911451.2914675'
 citation: ' Ben Carterette,  Paul Clough,  Mark Hall,  Evangelos Kanoulas,  Mark Sanderson, &quot;Evaluating Retrieval over Sessions: The TREC Session Track 2011-2014.&quot; In the proceedings of Proceedings of the 39th International ACM SIGIR conference on Research and Development in Information Retrieval, SIGIR 2016, Pisa, Italy, July 17-21, 2016, 2016.'
 ---
 [Official version](https://doi.org/10.1145/2911451.2914675){:target="_blank"}
- | [Local PDF](/files/papers/SIGIR2016.pdf){:target="_blank"}
+ | [Download Local PDF](/files/papers/SIGIR2016.pdf){:target="_blank"}

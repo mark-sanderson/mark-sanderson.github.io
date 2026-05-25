@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3406522.3446028'
 citation: ' Berkant Cambazoglu,  Valeria Bolotova{-}Baranova,  Falk Scholer,  Mark Sanderson,  Leila Tavakoli,  W. Croft, &quot;Quantifying Human-Perceived Answer Utility in Non-factoid Question Answering.&quot; In the proceedings of CHIIR &amp;apos;21: ACM SIGIR Conference on Human Information Interaction and Retrieval, Canberra, ACT, Australia, March 14-19, 2021, 2021.'
 ---
 [Official version](https://doi.org/10.1145/3406522.3446028){:target="_blank"}
- | [Local PDF](/files/papers/CHIIR21b.pdf){:target="_blank"}
+ | [Download Local PDF](/files/papers/CHIIR21b.pdf){:target="_blank"}

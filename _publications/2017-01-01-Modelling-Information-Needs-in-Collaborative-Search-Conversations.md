@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3077136.3080787'
 citation: ' Sosuke Shiga,  Hideo Joho,  Roi Blanco,  Johanne Trippas,  Mark Sanderson, &quot;Modelling Information Needs in Collaborative Search Conversations.&quot; In the proceedings of Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval, Shinjuku, Tokyo, Japan, August 7-11, 2017, 2017.'
 ---
 [Official version](https://doi.org/10.1145/3077136.3080787){:target="_blank"}
- | [Local PDF](/files/papers/sigir2017a.pdf){:target="_blank"}
+ | [Download Local PDF](/files/papers/sigir2017a.pdf){:target="_blank"}

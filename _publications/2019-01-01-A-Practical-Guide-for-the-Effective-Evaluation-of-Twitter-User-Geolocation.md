@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3352572'
 citation: ' Ahmed Mourad,  Falk Scholer,  Walid Magdy,  Mark Sanderson, &quot;A Practical Guide for the Effective Evaluation of Twitter User Geolocation.&quot; ACM Trans. Soc. Comput., 2019.'
 ---
 [Official version](https://doi.org/10.1145/3352572){:target="_blank"}
- | [Local PDF](/files/papers/TSC2019.pdf){:target="_blank"}
+ | [Download Local PDF](/files/papers/TSC2019.pdf){:target="_blank"}

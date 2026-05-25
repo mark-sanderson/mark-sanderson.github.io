@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1016/j.ipm.2019.102162'
 citation: ' Johanne Trippas,  Damiano Spina,  Paul Thomas,  Mark Sanderson,  Hideo Joho,  Lawrence Cavedon, &quot;Towards a model for spoken conversational search.&quot; Inf. Process. Manag., 2020.'
 ---
 [Official version](https://doi.org/10.1016/j.ipm.2019.102162){:target="_blank"}
- | [Local PDF](/files/papers/IPM2020.pdf){:target="_blank"}
+ | [Download Local PDF](/files/papers/IPM2020.pdf){:target="_blank"}

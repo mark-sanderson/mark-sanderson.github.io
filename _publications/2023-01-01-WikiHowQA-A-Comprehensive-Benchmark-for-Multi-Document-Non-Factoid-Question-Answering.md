@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.18653/v1/2023.acl-long.290'
 citation: ' Valeria Bolotova{-}Baranova,  Vladislav Blinov,  Sofya Filippova,  Falk Scholer,  Mark Sanderson, &quot;WikiHowQA: A Comprehensive Benchmark for Multi-Document Non-Factoid Question Answering.&quot; In the proceedings of Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), ACL 2023, Toronto, Canada, July 9-14, 2023, 2023.'
 ---
 [Official version](https://doi.org/10.18653/v1/2023.acl-long.290){:target="_blank"}
- | [Local PDF](/files/papers/2023.acl-long.290.pdf){:target="_blank"}
+ | [Download Local PDF](/files/papers/2023.acl-long.290.pdf){:target="_blank"}

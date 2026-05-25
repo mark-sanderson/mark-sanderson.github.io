@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3393692'
 citation: ' Manpreet Kaur,  Flora Salim,  Yongli Ren,  Jeffrey Chan,  Martin Tomko,  Mark Sanderson, &quot;Joint Modelling of Cyber Activities and Physical Context to Improve Prediction of Visitor Behaviors.&quot; ACM Trans. Sens. Networks, 2020.'
 ---
 [Official version](https://doi.org/10.1145/3393692){:target="_blank"}
- | [Local PDF](/files/papers/TOSN2020.pdf){:target="_blank"}
+ | [Download Local PDF](/files/papers/TOSN2020.pdf){:target="_blank"}

@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1002/asi.23587'
 citation: ' Yongli Ren,  Martin Tomko,  Flora Salim,  Kevin Ong,  Mark Sanderson, &quot;Analyzing Web behavior in indoor retail spaces.&quot; J. Assoc. Inf. Sci. Technol., 2017.'
 ---
 [Official version](https://doi.org/10.1002/asi.23587){:target="_blank"}
- | [Local PDF](/files/papers/JASIST2015d.pdf){:target="_blank"}
+ | [Download Local PDF](/files/papers/JASIST2015d.pdf){:target="_blank"}

@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3176349.3176872'
 citation: ' Kevin Ong,  Kalervo J{\&quot;{a}}rvelin,  Mark Sanderson,  Falk Scholer, &quot;QWERTY: The Effects of Typing on Web Search Behavior.&quot; In the proceedings of Proceedings of the 2018 Conference on Human Information Interaction and Retrieval, CHIIR 2018, New Brunswick, NJ, USA, March 11-15, 2018, 2018.'
 ---
 [Official version](https://doi.org/10.1145/3176349.3176872){:target="_blank"}
- | [Local PDF](/files/papers/CHIIR2018-Kevin.pdf){:target="_blank"}
+ | [Download Local PDF](/files/papers/CHIIR2018-Kevin.pdf){:target="_blank"}

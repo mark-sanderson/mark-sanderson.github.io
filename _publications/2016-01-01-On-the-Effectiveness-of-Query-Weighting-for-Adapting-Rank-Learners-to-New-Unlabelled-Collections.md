@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/2983323.2983852'
 citation: ' Pengfei Li,  Mark Sanderson,  Mark Carman,  Falk Scholer, &quot;On the Effectiveness of Query Weighting for Adapting Rank Learners to New Unlabelled Collections.&quot; In the proceedings of Proceedings of the 25th ACM International Conference on Information and Knowledge Management, CIKM 2016, Indianapolis, IN, USA, October 24-28, 2016, 2016.'
 ---
 [Official version](https://doi.org/10.1145/2983323.2983852){:target="_blank"}
- | [Local PDF](/files/papers/CIKM2016.pdf){:target="_blank"}
+ | [Download Local PDF](/files/papers/CIKM2016.pdf){:target="_blank"}

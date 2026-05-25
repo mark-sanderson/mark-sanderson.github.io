@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3077136.3080705'
 citation: ' Ruey{-}Cheng Chen,  Evi Yulianti,  Mark Sanderson,  W. Croft, &quot;On the Benefit of Incorporating External Features in a Neural Architecture for Answer Sentence Selection.&quot; In the proceedings of Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval, Shinjuku, Tokyo, Japan, August 7-11, 2017, 2017.'
 ---
 [Official version](https://doi.org/10.1145/3077136.3080705){:target="_blank"}
- | [Local PDF](/files/papers/sigir2017d.pdf){:target="_blank"}
+ | [Download Local PDF](/files/papers/sigir2017d.pdf){:target="_blank"}

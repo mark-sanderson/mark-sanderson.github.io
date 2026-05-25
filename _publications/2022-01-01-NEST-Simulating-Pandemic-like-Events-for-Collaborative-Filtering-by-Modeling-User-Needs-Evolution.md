@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3511808.3557407'
 citation: ' Chenglong Ma,  Yongli Ren,  Pablo Castells,  Mark Sanderson, &quot;NEST: Simulating Pandemic-like Events for Collaborative Filtering by Modeling User Needs Evolution.&quot; In the proceedings of Proceedings of the 31st ACM International Conference on Information &amp;amp; Knowledge Management, Atlanta, GA, USA, October 17-21, 2022, 2022.'
 ---
 [Official version](https://doi.org/10.1145/3511808.3557407){:target="_blank"}
- | [Local PDF](/files/papers/CIKM2022.pdf){:target="_blank"}
+ | [Download Local PDF](/files/papers/CIKM2022.pdf){:target="_blank"}

@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/3626772.3657827'
 citation: ' Nicola Ferro,  Mark Sanderson, &quot;Uncontextualized significance considered dangerous.&quot; In the proceedings of Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2024, Washington DC, USA, July 14-18, 2024, 2024.'
 ---
 [Official version](https://doi.org/10.1145/3626772.3657827){:target="_blank"}
- | [Local PDF](/files/papers/SIGIR2024-FS.pdf){:target="_blank"}
+ | [Download Local PDF](/files/papers/SIGIR2024-FS.pdf){:target="_blank"}

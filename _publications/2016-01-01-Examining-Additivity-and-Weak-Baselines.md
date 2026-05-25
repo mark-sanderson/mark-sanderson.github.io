@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1145/2882782'
 citation: ' Sadegh Kharazmi,  Falk Scholer,  David Vallet,  Mark Sanderson, &quot;Examining Additivity and Weak Baselines.&quot; ACM Trans. Inf. Syst., 2016.'
 ---
 [Official version](https://doi.org/10.1145/2882782){:target="_blank"}
- | [Local PDF](/files/papers/TOIS2016.pdf){:target="_blank"}
+ | [Download Local PDF](/files/papers/TOIS2016.pdf){:target="_blank"}

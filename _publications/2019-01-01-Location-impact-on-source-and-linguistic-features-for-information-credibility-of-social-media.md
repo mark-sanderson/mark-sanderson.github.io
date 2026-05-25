@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1108/OIR-03-2018-0087'
 citation: ' Suliman Aladhadh,  Xiuzhen Zhang,  Mark Sanderson, &quot;Location impact on source and linguistic features for information credibility of social media.&quot; Online Inf. Rev., 2019.'
 ---
 [Official version](https://doi.org/10.1108/OIR-03-2018-0087){:target="_blank"}
- | [Local PDF](/files/papers/Online18.pdf){:target="_blank"}
+ | [Download Local PDF](/files/papers/Online18.pdf){:target="_blank"}
