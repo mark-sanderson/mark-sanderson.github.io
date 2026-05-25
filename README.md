@@ -9,6 +9,8 @@ For the publications system, inside the markdown generator folder there is a P
 
 The creation of the overall publication file is defined in the archive single HTML file this is quite an obfuscated set of template commands (in the _layouts folder). It pulls in pieces from the individual files including what's called an excerpt. The excerpt is defined by a separator that is '\n\n' this took me a while to figure out why some of my adjustments to the single files weren't then being drawn into the excerpt.
 
+Note if you want the publication page to have a "Local PDF", you MUST have a url entry in the bibtex record!
+
 The workflow commands didn't work initially, but thanks to a change in the preferences, the "Actions" now seem to run automatically when files are updated. In the past, the action to rerun the python script seems to need to be run from the workflow list using the button in the top right.
 
 # Getting Started
