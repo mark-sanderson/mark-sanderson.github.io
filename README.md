@@ -7,7 +7,7 @@
 
 For the publications system, inside the markdown generator folder there is a Python file for converting bibtex content into the individual publication files. This now includes some additional code that I created with GPT to pull in a json file that maps the bibtex entries to locally stored files of PDF's (held in the files/papers directory). I haven't yet done all of the mapping so this only works for the last few years. The mapping file sits in the "_publications" folder.
 
-The creation of the overall publication file is defined in the archive single HTML file this is quite an obfuscated set of template commands (in the _layouts folder). It pulls in pieces from the individual files including what's called an excerpt. The excerpt is defined by a separator that is '\n\n' this took me a while to figure out why some of my adjustments to the single files weren't then being drawn into the excerpt.
+The creation of the overall publication file is defined in the archive single HTML file, in _includes, this is quite an obfuscated set of template commands (in the _layouts folder). It pulls in pieces from the individual files including what's called an excerpt. The excerpt is defined by a separator that is '\n\n' this took me a while to figure out why some of my adjustments to the single files weren't then being drawn into the excerpt. There is also publication.html, in "_pages" that creates the overall publication page.
 
 The workflow commands didn't work initially, but thanks to a change in the preferences, the "Actions" now seem to run automatically when files are updated. In the past, the action to rerun the python script seems to need to be run from the workflow list using the button in the top right.
 
