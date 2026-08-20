@@ -43,13 +43,13 @@ PhD Completed
 Current PhD Students
 --------------------
 * Hmdh Alknjr
+* Sara Fahad Dawood Al Lawati
 * Madhurima Khirbat
+* Nadisha Madhushanie
 * Khoi Vo Nguyen
 * Nuha Abu Onq
 * Raja Piyush
-* Sara Fahad Dawood Al Lawati
 * A Fathima Sharfana
-* Nadisha Madhushanie
 
 
  
