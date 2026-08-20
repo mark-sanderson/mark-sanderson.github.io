@@ -44,6 +44,7 @@ Current PhD Students
 --------------------
 * Hmdh Alknjr
 * Madhurima Khirbat
+* Khoi Vo Nguyen
 * Nuha Abu Onq
 * Raja Piyush
 * Sara Fahad Dawood Al Lawati
